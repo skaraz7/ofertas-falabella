@@ -4,6 +4,7 @@ import os
 from pathlib import Path
 
 app = Flask(__name__)
+app.config['SERVER_NAME'] = 'localhost'
 
 def calcular_estadisticas(datos):
     """Calcula estadisticas de los datos"""
@@ -59,13 +60,17 @@ def generar_html_estatico():
     
     stats = calcular_estadisticas(datos)
     
+    # Configurar Flask para generación estática
+    app.config['SERVER_NAME'] = 'localhost'
+    
     with app.app_context():
-        html_content = render_template('ofertas.html',
-                                     datos=datos,
-                                     stats=stats,
-                                     total_productos=stats['total_productos'],
-                                     total_categorias=stats['total_categorias'],
-                                     max_descuento=stats['max_descuento'])
+        with app.test_request_context():
+            html_content = render_template('ofertas.html',
+                                         datos=datos,
+                                         stats=stats,
+                                         total_productos=stats['total_productos'],
+                                         total_categorias=stats['total_categorias'],
+                                         max_descuento=stats['max_descuento'])
     
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write(html_content)
