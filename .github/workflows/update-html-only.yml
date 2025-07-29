@@ -30,7 +30,7 @@ jobs:
         
     - name: Copiar archivos estáticos
       run: |
-        cp -r static .
+        cp -r static/* . 2>/dev/null || true
 
     - name: Subir cambios
       env:
