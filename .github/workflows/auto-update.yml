@@ -25,7 +25,7 @@ jobs:
 
     - name: Ejecutar scraper
       run: |
-        python scripts/scraper_mejorado    
+        python scripts/scraper_mejorado.py   
 
     - name: Subir cambios a GitHub
       run: |
