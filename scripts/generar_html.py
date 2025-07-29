@@ -644,12 +644,12 @@ def generar_secciones_con_paginacion(datos_categorias):
 
 # Ejecución principal
 if __name__ == "__main__":
-    print("🎨 GENERANDO HTML DESDE JSON")
+    print("GENERANDO HTML DESDE JSON")
     
     # Leer JSON
     json_path = "ofertas_falabella_completo.json"
     if not os.path.exists(json_path):
-        print(f"❌ Error: No se encontró el archivo {json_path}")
+        print(f"Error: No se encontro el archivo {json_path}")
         print("Ejecuta primero scraper_json.py para generar los datos")
         exit(1)
     
@@ -660,14 +660,14 @@ if __name__ == "__main__":
     html_content = generar_html_premium(datos_todas_categorias)
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print("✓ HTML premium generado: index.html")
+    print("HTML premium generado: index.html")
     
     total_productos = sum(len(cat["productos"]) for cat in datos_todas_categorias.values())
-    print(f"\n🎉 HTML GENERADO: {total_productos} productos de {len(datos_todas_categorias)} categorías")
+    print(f"\nHTML GENERADO: {total_productos} productos de {len(datos_todas_categorias)} categorias")
     
     # Resumen por categoría
-    print("\n📊 RESUMEN POR CATEGORÍA:")
+    print("\nRESUMEN POR CATEGORIA:")
     for categoria_key, categoria_data in datos_todas_categorias.items():
         info = categoria_data["info"]
         count = len(categoria_data["productos"])
-        print(f"  {info['icono']} {info['nombre']}: {count} productos")
+        print(f"  {info['nombre']}: {count} productos")
