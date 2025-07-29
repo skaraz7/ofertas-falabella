@@ -12,7 +12,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     
     <!-- Styles -->
-    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     
     <!-- Favicon -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
@@ -34,15 +34,8 @@
             <div class="controls-grid">
                 <div class="filters">
                     <button class="filter-btn active" data-category="all">
-                        <i class="fas fa-th"></i> Todas las Categorías
+                        <i class="fas fa-th"></i> Todos los Productos
                     </button>
-                    {% for key, categoria in datos.items() %}
-                    <button class="filter-btn" data-category="{{ key }}">
-                        <i class="{{ categoria.info.icono }}"></i> 
-                        {{ categoria.info.nombre }} 
-                        <span style="opacity: 0.7;">({{ categoria.productos|length }})</span>
-                    </button>
-                    {% endfor %}
                 </div>
                 <button class="theme-toggle" title="Cambiar tema">
                     <i class="fas fa-moon" id="theme-icon"></i>
@@ -50,7 +43,7 @@
                 <div class="stats">
                     <h3>
                         <i class="fas fa-fire" style="color: var(--error-color);"></i>
-                        <span>{{ total_productos }} Productos Disponibles</span>
+                        <span>{{ productos|length }} Productos Disponibles</span>
                     </h3>
                 </div>
             </div>
@@ -60,39 +53,13 @@
     <!-- Main Content -->
     <main class="main-content">
         <div class="container">
-            <div id="categories-container">
-                {% for key, categoria in datos.items() %}
-                <section class="category-section" data-category="{{ key }}">
-                    <header class="category-header">
-                        <i class="{{ categoria.info.icono }}"></i>
-                        <h2>{{ categoria.info.nombre }}</h2>
-                    </header>
-                    <div class="products-grid">
-                        {% for producto in categoria.productos %}
-                        <article class="product-card">
-                            <div class="discount-badge">-{{ producto.descuento_porcentaje }}%</div>
-                            <img src="{{ producto.imagen or 'https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen' }}" 
-                                 alt="{{ producto.nombre }}" 
-                                 class="product-image"
-                                 loading="lazy">
-                            <div class="product-info">
-                                <div class="product-brand">{{ producto.marca }}</div>
-                                <h3 class="product-name">{{ producto.nombre }}</h3>
-                                <div class="product-prices">
-                                    <span class="price-current">{{ producto.precio_oferta }}</span>
-                                    <span class="price-original">{{ producto.precio_original }}</span>
-                                </div>
-                                <a href="{{ producto.link }}" 
-                                   target="_blank" 
-                                   rel="noopener noreferrer"
-                                   class="product-link">
-                                    <i class="fas fa-shopping-cart"></i> Ver Oferta
-                                </a>
-                            </div>
-                        </article>
-                        {% endfor %}
-                    </div>
-                </section>
+            <div class="products-grid">
+                {% for item in productos %}
+                <div class="producto">
+                    <h3>{{ item.nombre }}</h3>
+                    <p>Precio: {{ item.precio }}</p>
+                    <a href="{{ item.link }}" target="_blank">Ver producto</a>
+                </div>
                 {% endfor %}
             </div>
         </div>
@@ -119,6 +86,6 @@
     </button>
     
     <!-- Scripts -->
-    <script src="static/js/main.js"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
 </body>
 </html>
