@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔥 Ofertas Premium Falabella Perú</title>
+    <meta name="description" content="Las mejores ofertas de Falabella Perú actualizadas automáticamente. Encuentra descuentos increíbles en tecnología, moda, hogar y más.">
+    <meta name="keywords" content="ofertas, descuentos, falabella, peru, tecnologia, moda, hogar">
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="static/css/style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1>🔥 Ofertas Premium</h1>
+                <p>Las mejores ofertas de Falabella Perú con diseño profesional y navegación avanzada</p>
+            </div>
+        </div>
+    </header>
+    
+    <!-- Controls -->
+    <nav class="controls">
+        <div class="container">
+            <div class="controls-grid">
+                <div class="filters">
+                    <button class="filter-btn active" data-category="all">
+                        <i class="fas fa-th"></i> Todas las Categorías
+                    </button>
+                    {% for key, categoria in datos.items() %}
+                    <button class="filter-btn" data-category="{{ key }}">
+                        <i class="{{ categoria.info.icono }}"></i> 
+                        {{ categoria.info.nombre }} 
+                        <span style="opacity: 0.7;">({{ categoria.productos|length }})</span>
+                    </button>
+                    {% endfor %}
+                </div>
+                <button class="theme-toggle" title="Cambiar tema">
+                    <i class="fas fa-moon" id="theme-icon"></i>
+                </button>
+                <div class="stats">
+                    <h3>
+                        <i class="fas fa-fire" style="color: var(--error-color);"></i>
+                        <span>{{ total_productos }} Productos Disponibles</span>
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <div id="categories-container">
+                {% for key, categoria in datos.items() %}
+                <section class="category-section" data-category="{{ key }}">
+                    <header class="category-header">
+                        <i class="{{ categoria.info.icono }}"></i>
+                        <h2>{{ categoria.info.nombre }}</h2>
+                    </header>
+                    <div class="products-grid">
+                        {% for producto in categoria.productos %}
+                        <article class="product-card">
+                            <div class="discount-badge">-{{ producto.descuento_porcentaje }}%</div>
+                            <img src="{{ producto.imagen or 'https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen' }}" 
+                                 alt="{{ producto.nombre }}" 
+                                 class="product-image"
+                                 loading="lazy">
+                            <div class="product-info">
+                                <div class="product-brand">{{ producto.marca }}</div>
+                                <h3 class="product-name">{{ producto.nombre }}</h3>
+                                <div class="product-prices">
+                                    <span class="price-current">{{ producto.precio_oferta }}</span>
+                                    <span class="price-original">{{ producto.precio_original }}</span>
+                                </div>
+                                <a href="{{ producto.link }}" 
+                                   target="_blank" 
+                                   rel="noopener noreferrer"
+                                   class="product-link">
+                                    <i class="fas fa-shopping-cart"></i> Ver Oferta
+                                </a>
+                            </div>
+                        </article>
+                        {% endfor %}
+                    </div>
+                </section>
+                {% endfor %}
+            </div>
+        </div>
+    </main>
+    
+    <!-- Scroll to top button -->
+    <button id="scroll-top" onclick="window.ofertasApp.scrollToTop()" style="
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        background: var(--primary-color);
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        box-shadow: var(--shadow-medium);
+        display: none;
+        z-index: 1000;
+        transition: all 0.3s ease;
+    " onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+    
+    <!-- Scripts -->
+    <script src="static/js/main.js"></script>
+</body>
+</html>
