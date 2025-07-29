@@ -647,7 +647,7 @@ if __name__ == "__main__":
     print("GENERANDO HTML DESDE JSON")
     
     # Leer JSON
-    json_path = "ofertas_falabella_completo.json"
+    json_path = "../data/ofertas_falabella_completo.json"
     if not os.path.exists(json_path):
         print(f"Error: No se encontro el archivo {json_path}")
         print("Ejecuta primero scraper_json.py para generar los datos")
@@ -658,9 +658,9 @@ if __name__ == "__main__":
     
     # Generar HTML premium
     html_content = generar_html_premium(datos_todas_categorias)
-    with open("index.html", "w", encoding="utf-8") as f:
+    with open("../index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print("HTML premium generado: index.html")
+    print("HTML premium generado: ../index.html")
     
     total_productos = sum(len(cat["productos"]) for cat in datos_todas_categorias.values())
     print(f"\nHTML GENERADO: {total_productos} productos de {len(datos_todas_categorias)} categorias")

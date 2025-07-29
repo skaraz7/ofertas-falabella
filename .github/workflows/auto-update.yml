@@ -18,9 +18,9 @@ jobs:
       with:
         python-version: 3.11
 
-    - name: Instalar Playwright
+    - name: Instalar Playwright y dependencias
       run: |
-        pip install playwright
+        pip install playwright jinja2
         playwright install chromium
 
     - name: Crear directorio data si no existe
@@ -34,8 +34,7 @@ jobs:
 
     - name: Generar HTML desde JSON
       run: |
-        cd scripts
-        python generar_html.py
+        python generar_html_profesional.py
 
     - name: Subir cambios al repositorio
       env:
