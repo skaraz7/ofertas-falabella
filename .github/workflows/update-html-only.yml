@@ -19,13 +19,13 @@ jobs:
       with:
         python-version: 3.11
         
-    - name: Instalar Jinja2
+    - name: Instalar Flask
       run: |
-        pip install jinja2
+        pip install flask
 
     - name: Generar HTML desde JSON existente
       run: |
-        python generar_html_profesional.py
+        python app.py generate
 
     - name: Subir cambios
       env:

@@ -20,7 +20,7 @@ jobs:
 
     - name: Instalar Playwright y dependencias
       run: |
-        pip install playwright jinja2
+        pip install playwright flask
         playwright install chromium
 
     - name: Crear directorio data si no existe
@@ -34,7 +34,7 @@ jobs:
 
     - name: Generar HTML desde JSON
       run: |
-        python generar_html_profesional.py
+        python app.py generate
 
     - name: Subir cambios al repositorio
       env:
