@@ -174,9 +174,9 @@ def scrape_categoria(categoria_key, categoria_info):
                         marca_elem = producto.query_selector('.pod-title') or producto.query_selector('b.title-rebrand') or producto.query_selector('[data-testid="pod-title"]')
                         marca = marca_elem.inner_text().strip() if marca_elem else "Sin marca"
                         
-                        # Extraer nombre del producto
+                        # Extraer nombre del producto (solo una vez)
                         nombre_elem = producto.query_selector('.pod-subTitle') or producto.query_selector('b.subTitle-rebrand') or producto.query_selector('[id*="pod-displaySubTitle"]')
-                        nombre = nombre_elem.inner_text().strip() if nombre_elem else "Sin nombre"
+                        nombre_producto = nombre_elem.inner_text().strip() if nombre_elem else "Sin nombre"
                         
                         # Extraer precios usando data-internet-price y data-normal-price
                         precio_oferta = None
@@ -252,7 +252,7 @@ def scrape_categoria(categoria_key, categoria_info):
                             imagen = None
 
                         # Solo agregar productos EN OFERTA
-                        if nombre != "Sin nombre" and precio_oferta != "Sin precio" and precio_oferta:
+                        if nombre_producto != "Sin nombre" and precio_oferta != "Sin precio" and precio_oferta:
                             try:
                                 precio_oferta_num = float(precio_oferta.replace('S/', '').replace(',', '').strip())
                                 precio_original_num = None
@@ -273,7 +273,7 @@ def scrape_categoria(categoria_key, categoria_info):
                                     continue
                                 
                                 producto_data = {
-                                    "nombre": nombre,
+                                    "nombre": nombre_producto,
                                     "marca": marca,
                                     "precio_oferta": precio_oferta,
                                     "precio_original": precio_original,
@@ -285,7 +285,7 @@ def scrape_categoria(categoria_key, categoria_info):
                                     "indice": i
                                 }
                                 productos_por_pagina[pagina].append(producto_data)
-                                print(f"Página {pagina} - Producto {i+1}: {marca} - {nombre[:30]}... [IMG: {'Sí' if imagen else 'No'}] [DESC: {descuento_porcentaje}%]")
+                                print(f"Página {pagina} - Producto {i+1}: {marca} - {nombre_producto[:30]}... [IMG: {'Sí' if imagen else 'No'}] [DESC: {descuento_porcentaje}%]")
                                 
                             except ValueError:
                                 continue
