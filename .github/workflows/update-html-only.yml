@@ -4,7 +4,7 @@ on:
   workflow_dispatch:  # Solo manual
   push:
     paths:
-      - 'scripts/ofertas_falabella_completo.json'  # Se ejecuta cuando cambia el JSON
+      - 'data/ofertas_falabella_completo.json'  # Se ejecuta cuando cambia el JSON
 
 jobs:
   update-html:

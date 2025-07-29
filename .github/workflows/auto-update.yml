@@ -23,10 +23,14 @@ jobs:
         pip install playwright
         playwright install chromium
 
+    - name: Crear directorio data si no existe
+      run: mkdir -p data
+
     - name: Ejecutar scraper JSON
       run: |
         cd scripts
         python scraper_json.py
+        mv ofertas_falabella_completo.json ../data/
 
     - name: Generar HTML desde JSON
       run: |
@@ -40,7 +44,7 @@ jobs:
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-        git add scripts/ofertas_falabella_completo.json
+        git add data/ofertas_falabella_completo.json
         git add index.html
         git commit -m "🔁 Actualización automática diaria - JSON y HTML" || echo "No hay cambios que commitear"
         git push origin HEAD:main
