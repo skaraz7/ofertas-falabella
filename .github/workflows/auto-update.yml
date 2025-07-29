@@ -35,6 +35,10 @@ jobs:
     - name: Generar HTML desde JSON
       run: |
         python app.py generate
+        
+    - name: Copiar archivos estáticos
+      run: |
+        cp -r static .
 
     - name: Subir cambios al repositorio
       env:
@@ -45,5 +49,6 @@ jobs:
         git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
         git add data/ofertas_falabella_completo.json
         git add index.html
+        git add static/
         git commit -m "🔁 Actualización automática diaria - JSON y HTML" || echo "No hay cambios que commitear"
         git push origin HEAD:main
