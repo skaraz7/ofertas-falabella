@@ -1,0 +1,2473 @@
+{
+    "descuentos_cmr": {
+        "info": {
+            "nombre": "🔥 Descuentos CMR",
+            "url": "https://www.falabella.com.pe/falabella-pe/collection/descuentos-cmr",
+            "descuento_minimo": 30,
+            "icono": "fas fa-fire"
+        },
+        "productos": [
+            {
+                "nombre": "Polar Half Zipper Deportivo Mujer",
+                "marca": "MOUNTAIN GEAR",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 89.90",
+                "descuento_porcentaje": 44,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883274475/Polar-Half-Zipper-Deportivo-Mujer-Mountain-Gear/883274489",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883274489_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Dormitorio Acqua 1.5 Plazas + Sofá Cama",
+                "marca": "FORLI",
+                "precio_oferta": "S/ 459.90",
+                "precio_original": "S/ 899.90",
+                "descuento_porcentaje": 49,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/130372138/Dormitorio-Acqua-1.5-Plazas-+-Sofa-Cama/130372139",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/4278585_00/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Caja de Té Bambú 33.5x20x9cm",
+                "marca": "JUST HOME COLLECTION",
+                "precio_oferta": "S/ 34.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 30,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135872861/Caja-de-Te-Bambu-33.5x20x9cm/135872864",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/9068961_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack x3 Focos LED Ecohome LedBulb Luz Fría 14W",
+                "marca": "PHILIPS",
+                "precio_oferta": "S/ 16.90",
+                "precio_original": "S/ 24.90",
+                "descuento_porcentaje": 32,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113324585/Pack-x3-Focos-LED-Ecohome-LedBulb-Luz-Fria-14W/113324588",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/4053109_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Zapatillas Urbanas Hombre",
+                "marca": "LA MARTINA",
+                "precio_oferta": "S/ 129.90",
+                "precio_original": "S/ 229.90",
+                "descuento_porcentaje": 43,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883301115/Zapatillas-Urbanas-Hombre-La-Martina-/883301119",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883301119_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Zapatillas Urbanas Hombre",
+                "marca": "LA MARTINA",
+                "precio_oferta": "S/ 129.90",
+                "precio_original": "S/ 229.90",
+                "descuento_porcentaje": 43,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883301167/Zapatillas-Urbanas-Hombre-La-Martina-/883301168",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883301168_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Cortaviento Deportivo Mujer",
+                "marca": "MOUNTAIN GEAR",
+                "precio_oferta": "S/ 109.90",
+                "precio_original": "S/ 169.90",
+                "descuento_porcentaje": 35,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/882677185/Casaca-Cortaviento-Deportivo-Mujer-Mountain-Gear/882677203",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/882677203_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Piso De Goma Cuadrado de Colores 60x60cm 4Pzs",
+                "marca": "JUST HOME COLLECTION",
+                "precio_oferta": "S/ 24.90",
+                "precio_original": "S/ 39.90",
+                "descuento_porcentaje": 38,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113325112/Piso-De-Goma-Cuadrado-de-Colores-60x60cm-4Pzs/113325113",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/2596555_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Kit de Accesorios 1/2 Baño Estándar",
+                "marca": "HUMBOLDT",
+                "precio_oferta": "S/ 55",
+                "precio_original": "S/ 84.90",
+                "descuento_porcentaje": 35,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113539879/Kit-de-Accesorios-1-2-Bano-Estandar/113539882",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/2396289_03/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set de Dispensador 8l + 4 Jarrones",
+                "marca": "JUST HOME COLLECTION",
+                "precio_oferta": "S/ 39.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/125085505/Set-de-Dispensador-8l-+-4-Jarrones/125085519",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8998515_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Paños de Microfibra x 30 unidades",
+                "marca": "AUTOSTYLE",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 44.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113539113/Panos-de-Microfibra-x-30-unidades/113539117",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/3719383_00/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cojín Lumbar para Auto",
+                "marca": "AUTOSTYLE",
+                "precio_oferta": "S/ 24.90",
+                "precio_original": "S/ 39.90",
+                "descuento_porcentaje": 38,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113328654/Cojin-Lumbar-para-Auto-Autostyle/113328655",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/2268116_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack x3 Focos LED Ecohome LedBulb Luz Fría 14W",
+                "marca": "PHILIPS",
+                "precio_oferta": "S/ 16.90",
+                "precio_original": "S/ 24.90",
+                "descuento_porcentaje": 32,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113324585/Pack-x3-Focos-LED-Ecohome-LedBulb-Luz-Fria-14W/113324588",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/4053109_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Paños de Microfibra x 30 unidades",
+                "marca": "AUTOSTYLE",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 44.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113539113/Panos-de-Microfibra-x-30-unidades/113539117",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/3719383_00/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set de 6 Vasos Económico 250ml",
+                "marca": "CASA BONITA",
+                "precio_oferta": "S/ 5.90",
+                "precio_original": "S/ 8.90",
+                "descuento_porcentaje": 34,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113517274/Set-de-6-Vasos-Economico-250ml/113517276",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/2855895_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            }
+        ]
+    },
+    "moda_accesorios": {
+        "info": {
+            "nombre": "👗 Moda y Accesorios",
+            "url": "https://www.falabella.com.pe/falabella-pe/collection/ous-moda-y-accesorios",
+            "descuento_minimo": 0,
+            "icono": "fas fa-tshirt"
+        },
+        "productos": [
+            {
+                "nombre": "Mochila De Viaje De Gran Capacidad Cabinera Aprobada Viral de Tiktok",
+                "marca": "SUNSHINE",
+                "precio_oferta": "S/ 131.90",
+                "precio_original": "S/ 139",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126443625/Mochila-De-Viaje-De-Gran-Capacidad-Cabinera-Aprobada-Viral-de-Tiktok/126864944",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126864944_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Niña",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 69.90",
+                "precio_original": "S/ 89.90",
+                "descuento_porcentaje": 22,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883420036/Casaca-Nina-Yamp/883420045",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883420045_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Conjunto Bebé Niña Algodón 3pzas",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 38,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883426771/Conjunto-Bebe-Nina-Algodon-3pzas-Yamp/883426772",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883426772_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Conjunto Bebé Niña Algodón",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 38,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883427425/Conjunto-Bebe-Nina-Algodon-Yamp/883427427",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883427427_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Vestido Niña Algodón",
+                "marca": "CONIGLIO",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883419538/Vestido-Nina-Algodon-Coniglio/883419553",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883419553_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chaleco Niña",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 69.90",
+                "descuento_porcentaje": 29,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883419582/Chaleco-Nina-Yamp/883419594",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883419594_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Niña Algodón",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 69.90",
+                "descuento_porcentaje": 29,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883423140/Casaca-Nina-Algodon-Yamp/883423141",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883423141_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chaleco Casual Mujer",
+                "marca": "STEFANO COCCI",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 119.90",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883447904/Chaleco-Casual-Mujer-Stefano-Cocci/883447915",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883447915_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Top Asimetrico Mujer",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 19.90",
+                "precio_original": "S/ 24.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139258401/Top-Asimetrico-Mujer-Redwood/139258224",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43447691_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Top Off Shoulder Mujer",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 19.90",
+                "precio_original": "S/ 24.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139258147/Top-Off-Shoulder-Mujer-Redwood/139258592",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43447721_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Body Mesh Mujer",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 34.90",
+                "descuento_porcentaje": 14,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139388888/Body-Mesh-Mujer-Redwood/139388253",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43453085_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carro F1 Coleccionables Fórmula 1 Aleatorio",
+                "marca": "LEGO",
+                "precio_oferta": "S/ 24.90",
+                "precio_original": "S/ 29.90",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/21026680/Carro-F1-Coleccionables-Formula-1-Aleatorio-Lego/21026680",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/21026680_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Niño Algodón",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883424214/Casaca-Nino-Algodon-Yamp/883424225",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883424225_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pantalón Niño Algodón",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 39.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883421528/Pantalon-Nino-Algodon-Yamp/883421537",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883421537_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pijama Mujer",
+                "marca": "SYBILLA",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883356892/Pijama-Mujer/883356908",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883356908_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Camisa Niño Algodón",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 40,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883420559/Camisa-Nino-Algodon-Yamp/883420566",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883420566_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chaleco Niño",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 69.90",
+                "descuento_porcentaje": 29,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883422334/Chaleco-Nino-Yamp/883422345",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883422345_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack X3 Medias Bebé",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 7.90",
+                "precio_original": "S/ 9.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133322824/pack-x3-medias-bebe-redwood/133322758",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43371741_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chaleco Casual Mujer",
+                "marca": "NEWPORT",
+                "precio_oferta": "S/ 89.90",
+                "precio_original": "S/ 119.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883448863/Chaleco-Casual-Mujer-Newport/883448872",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883448872_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Muñeco Chucky Good Guys Tamaño Real Trick Or Tread",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 7,589.90",
+                "precio_original": "S/ 7,990",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129793555/Muneco-Chucky-Good-Guys-Tamano-Real-Trick-Or-Tread/129793556",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129793556_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Niño Algodón",
+                "marca": "FEDERATION",
+                "precio_oferta": "S/ 79.90",
+                "precio_original": "S/ 99.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883432539/Casaca-Nino-Algodon-Federation/883432551",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883432551_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carro F1 Mercedes 1:24 Coleccionable Bburago Mercedes",
+                "marca": "BURAGO",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 149.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/20971248/Carro-F1-Mercedes-1:24-Coleccionable-Bburago-Mercedes/20971250",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/20971250_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Puerta de Seguridad Barras Metal Niños 70 a 86cm Blanco",
+                "marca": "HOLZTEK",
+                "precio_oferta": "S/ 139.90",
+                "precio_original": "S/ 159.90",
+                "descuento_porcentaje": 13,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113313554/Puerta-de-Seguridad-Barras-Metal-Ninos-70-a-86cm-Blanco/113313558",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/1291866_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carro F1 Redbull 1:24 Bburago Redbull Fórmula 1 Aleatorio",
+                "marca": "BURAGO",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883459738/Carro-F1-Redbull-1:24-Bburago-Redbull-Formula-1-Aleatorio/883459738",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883459738_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Cortaviento Niño",
+                "marca": "PAW PATROL",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883425616/Casaca-Cortaviento-Nino-Paw-Patrol/883425620",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883425620_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Overol Niña Algodón",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883419516/Overol-Nina-Algodon-Yamp/883419519",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883419519_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Máscara hombre aracnido Con Movimiento Y Luces",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 64.90",
+                "precio_original": "S/ 69",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141100881/Mascara-hombre-aracnido-Con-Movimiento-Y-Luces/141100882",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141100882_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carro F1 Mercedes 1:24 Bburago Mercedes Fórmula 1 Aleatorio",
+                "marca": "BURAGO",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883459730/Carro-F1-Mercedes-1:24-Bburago-Mercedes-Formula-1-Aleatorio/883459730",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883459730_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carpa Infantil 130x102cm Azul",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 39.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114970708/Carpa-Infantil-130x102cm-Azul/114971544",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8863806_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack X2 Calcetin Felpa Mujer",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 9.90",
+                "precio_original": "S/ 12.90",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138428073/pack-2-calcetin-felpa-mujer-redwood/138428074",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43431894_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack X2 Calcetin Cozy Mujer",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 9.90",
+                "precio_original": "S/ 12.90",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138428115/pack-2-calcetin-cozy-mujer-redwood/138428079",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43431899_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polo Oversize Bambi Mujer",
+                "marca": "DISNEY",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 34.90",
+                "descuento_porcentaje": 14,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141303164/polo-oversize-bambi-mujer-disney/141303165",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43492704_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Conjunto Bebé Niño Algodón",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 69.90",
+                "descuento_porcentaje": 29,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883428294/Conjunto-Bebe-Nino-Algodon-Yamp/883428303",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883428303_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rompecabezas Arquitectura 1000 Pzas",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 14.90",
+                "precio_original": "S/ 16.90",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136975835/rompecabezas-arquitectura-2-1000-piezas/136975836",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43406501_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Casual Mujer",
+                "marca": "APOLOGY",
+                "precio_oferta": "S/ 159.90",
+                "precio_original": "S/ 199.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883341939/Casaca-Casual-Mujer-Apology/883341943",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883341943_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mesa de Ping Pong Plegable Doit mm",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 449.90",
+                "precio_original": "S/ 599.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113324842/Mesa-de-Ping-Pong-Plegable-Doit-mm/113324843",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/2538814_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "CrossBody",
+                "marca": "DENIMLAB",
+                "precio_oferta": "S/ 99",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 24,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883211762/CrossBody-Denimlab/883211763",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883211763_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polo Bordado Bebé Niño",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 14.90",
+                "precio_original": "S/ 19.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137998295/polo-bordado-bebe-nino-redwood/137998462",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43419875_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Reloj 47324 Mujer + Estuche",
+                "marca": "INVICTA",
+                "precio_oferta": "S/ 359",
+                "precio_original": "S/ 499",
+                "descuento_porcentaje": 28,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/20406512/Reloj-Invicta-47324-Mujer-+-Estuche/20406512",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/20406512_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carpa de Juegos Submarino",
+                "marca": "JUST HOME COLLECTION",
+                "precio_oferta": "S/ 44.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 10,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113779455/Carpa-de-Juegos-Submarino/113779458",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8800340_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polo Niño",
+                "marca": "YAMP",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 40,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883426139/Polo-Nino-Yamp/883426141",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883426141_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Saga Geminis Revival Myth Cloth Ex Tamashii Nations 2025 Jp",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 1,994.90",
+                "precio_original": "S/ 2,100",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140837113/Saga-Geminis-Revival-Myth-Cloth-Ex-Tamashii-Nations-2025-Jp/140837114",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140837114_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Masajeador de cuerpo deportivo FASCIAL GUN RECARGABLE",
+                "marca": "OEM",
+                "precio_oferta": "S/ 108.90",
+                "precio_original": "S/ 119.90",
+                "descuento_porcentaje": 9,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/119676493/Masajeador-de-cuerpo-deportivo-FASCIAL-GUN-RECARGABLE/119676495",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/119676495_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casa para Niños Club Ammy",
+                "marca": "BESTWAY",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113320335/Casa-para-Ninos-Club-Ammy/113320338",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/1004557_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Arco de Coche con Juguetes Multisensoriales Diseño Cangrejo",
+                "marca": "HUANGER",
+                "precio_oferta": "S/ 54.90",
+                "precio_original": "S/ 58",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/125253681/Arco-de-Coche-con-Juguetes-Multisensoriales-Diseno-Cangrejo/125253682",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/125253682_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polera con Capucha Mujer Estampado Suéter Sudadera Rosado Moda Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 131.90",
+                "precio_original": "S/ 139",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133035390/Polera-con-Capucha-Mujer-Estampado-Sueter-Sudadera-Rosado-Moda-Genieka/133035392",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/133035392_04/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura Deadpool Movie Deadpool & Wolverine 31cm Altura",
+                "marca": "HOT TOYS",
+                "precio_oferta": "S/ 2,654.90",
+                "precio_original": "S/ 2,795",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140718759/Figura-Deadpool-Movie-Deadpool-Wolverine-31cm-Altura/140718760",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140718760_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Spiderman Amazing Yamaguchi Revoltech 023 Iron Spider",
+                "marca": "MARVEL",
+                "precio_oferta": "S/ 1,299.90",
+                "precio_original": "S/ 1,490",
+                "descuento_porcentaje": 13,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/131938026/Spiderman-Marvel-Amazing-Yamaguchi-Revoltech-023-Iron-Spider/131938027",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/131938027_06/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rctm - recontra todo mundo - bigbox",
+                "marca": "PAPALOMO GAMES",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/115586494/Rctm-recontra-todo-mundo-bigbox/115586496",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/115586496_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Dragon Ball Super Hero SH Figuarts Broly Exclusivo",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 397.90",
+                "precio_original": "S/ 419",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/128745060/Dragon-Ball-Super-Hero-SH-Figuarts-Broly-Exclusivo/128745061",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/128745061_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Tapon De Oido Audífonos Protección Auditiva Para Bebés -30db",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140083148/Tapon-De-Oido-Audifonos-Proteccion-Auditiva-Para-Bebes-30db/140083149",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140083149_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "25 PCS Spinner pop it juego del calamar anti estrés",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 65.90",
+                "precio_original": "S/ 69.70",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126539778/25-PCS-Spinner-pop-it-juego-del-calamar-anti-estres/126539779",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126539779_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Juguete Montessori con 12 Lados de Actividades Sensoriales",
+                "marca": "BABY",
+                "precio_oferta": "S/ 44.90",
+                "precio_original": "S/ 48",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135518380/Juguete-Montessori-con-12-Lados-de-Actividades-Sensoriales/135518381",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/135518381_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Ropa de Bebé Pack de 3 Bodies Niño Blanco Sabana",
+                "marca": "HUGGIES",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138996825/Ropa-de-Bebe-Huggies-Pack-de-3-Bodies-Nino-Blanco-Sabana/138996829",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138996829_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rompecabezas Arquitectura 1000 Pzas",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 14.90",
+                "precio_original": "S/ 16.90",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136975824/rompecabezas-arquitectura-3-1000-piezas/136975826",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43406502_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Taza de Silicona para Bebés con Doble Tapa - VERDE",
+                "marca": "BABY",
+                "precio_oferta": "S/ 36.90",
+                "precio_original": "S/ 39",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/127726147/Taza-de-Silicona-para-Bebes-con-Doble-Tapa-VERDE/127726148",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/127726148_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mochila escolar infantil para niños animalitos",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 48.90",
+                "precio_original": "S/ 52",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/128737852/Mochila-escolar-infantil-para-ninos-animalitos/128737857",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/128737857_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Reloj Mujer TM-115001 + Estuche",
+                "marca": "TECHNOMARINE",
+                "precio_oferta": "S/ 1,099",
+                "precio_original": "S/ 1,199",
+                "descuento_porcentaje": 8,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/20570578/Reloj-Technomarine-Mujer-TM-115001-+-Estuche/20570578",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/20570578_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Reloj 17482 Mujer + Estuche",
+                "marca": "INVICTA",
+                "precio_oferta": "S/ 449",
+                "precio_original": "S/ 474",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/20414325/Reloj-Invicta-17482-Mujer-+-Estuche/20414325",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/20414325_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura Superman - Superman Money Box - Alcancía 16cm",
+                "marca": "DC COMICS",
+                "precio_oferta": "S/ 55.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140946548/Figura-DC-Comics-Superman-Superman-Money-Box-Alcancia-16cm/140946549",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140946549_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "ThunderCats ULTIMATES Cats Lair Cubil Felino",
+                "marca": "SUPER 7",
+                "precio_oferta": "S/ 8,999.90",
+                "precio_original": "S/ 9,900",
+                "descuento_porcentaje": 9,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142780655/ThunderCats-ULTIMATES-Cats-Lair-Cubil-Felino/142780656",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142780656_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Guante de Títeres con Sonido para Bebés - Amarillo",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 32",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/130607432/Guante-de-Titeres-con-Sonido-para-Bebes-Amarillo/130607433",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/130607433_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Botines Haskovo - Nébula -Topo",
+                "marca": "NEBULA",
+                "precio_oferta": "S/ 89.90",
+                "precio_original": "S/ 94.95",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121729786/Botines-Haskovo-Nebula-Topo/121729788",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121729788_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Ropa de Bebé Pack de 3 Bodies Niño Avena Brezo",
+                "marca": "HUGGIES",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138994495/Ropa-de-Bebe-Pack-de-3-Bodies-Nino-Avena-Brezo/138994497",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138994497_041/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "BIKINI LOLITAS ESTAMPADO ROSA PLAYERO",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140658615/BIKINI-LOLITAS-ESTAMPADO-ROSA-PLAYERO/140658616",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140658616_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "TRAJE DE BAÑO LOLITAS FLORES TROPICAL",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 103.90",
+                "precio_original": "S/ 109.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133334668/TRAJE-DE-BANO-LOLITAS-FLORES-TROPICAL/133334669",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/133334669_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "TRAJE DE BAÑO LOLITAS ROSADO ESTAMPADO K-POP",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 112.90",
+                "precio_original": "S/ 119.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140659096/TRAJE-DE-BANO-LOLITAS-ROSADO-ESTAMPADO-K-POP/140659097",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140659097_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "TRAJE DE BAÑO LOLITAS FLOWER",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 103.90",
+                "precio_original": "S/ 109.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133334694/TRAJE-DE-BANO-LOLITAS-FLOWER/133334695",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/133334695_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Abrigo Casual Mujer",
+                "marca": "NEWPORT",
+                "precio_oferta": "S/ 119.90",
+                "precio_original": "S/ 159.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883341410/Abrigo-Casual-Mujer-Newport/883341417",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883341417_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Jean Wide Leg Niña",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 44.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 10,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138555040/jean-wide-leg-nina-redwood/138554996",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43435807_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Cortaviento Niño",
+                "marca": "JURASSIC WORLD",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883425424/Casaca-Cortaviento-Nino-Jurassic-World/883425426",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883425426_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Escudo Capitan America Legends Brave New World",
+                "marca": "MARVEL",
+                "precio_oferta": "S/ 1,138.90",
+                "precio_original": "S/ 1,199",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/132348082/Escudo-Capitan-America-Marvel-Legends-Brave-New-World/132348083",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/132348083_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Juguete Mega Kit De Creación",
+                "marca": "PLAY DOH",
+                "precio_oferta": "S/ 119.90",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 8,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/882568185/Juguete-Mega-Kit-De-Creacion-Play-Doh/882568185",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/882568185_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Caminador Musical Con Piano Y Sonido",
+                "marca": "WINFUN",
+                "precio_oferta": "S/ 109.90",
+                "precio_original": "S/ 159.90",
+                "descuento_porcentaje": 31,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/881956440/Caminador-Musical-Winfun-Con-Piano-Y-Sonido/881956440",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/881956440_3/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set x100 Pelotas de Colores",
+                "marca": "BESTWAY",
+                "precio_oferta": "S/ 19.90",
+                "precio_original": "S/ 24.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/127212305/Set-x100-Pelotas-de-Colores/127212351",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/9006613_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pantufla Baja",
+                "marca": "BENETTON",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883318543/Pantufla-Baja/883318549",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883318549_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set de 6 Sonajeros y Mordedores: Estimulación para Bebés",
+                "marca": "BIBI",
+                "precio_oferta": "S/ 32.90",
+                "precio_original": "S/ 35",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136547443/Set-de-6-Sonajeros-y-Mordedores:-Estimulacion-para-Bebes/136547444",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/136547444_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "La pelicula figuras de acción Creeper",
+                "marca": "MINECRAFT",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142660117/Minecraft-La-pelicula-figuras-de-accion-Creeper/142660118",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142660118_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Mujer",
+                "marca": "SYBILLA",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883279490/Casaca-Mujer-Sybilla/883279512",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883279512_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Naruto Shippuden SH Figuarts Itachi Uchiha Naruto99",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 699.90",
+                "precio_original": "S/ 795",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135890836/Naruto-Shippuden-SH-Figuarts-Itachi-Uchiha-Naruto99/135890837",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/135890837_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Abrigo Casual Mujer",
+                "marca": "NEWPORT",
+                "precio_oferta": "S/ 139.90",
+                "precio_original": "S/ 179.90",
+                "descuento_porcentaje": 22,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883340705/Abrigo-Casual-Mujer-Newport/883340717",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883340717_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casa Magic Villa",
+                "marca": "KETER",
+                "precio_oferta": "S/ 599.90",
+                "precio_original": "S/ 1,299.90",
+                "descuento_porcentaje": 54,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113330246/Casa-Magic-Villa/113330249",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/1635263_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cama Saltarina 366 cm",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 599.90",
+                "precio_original": "S/ 899.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114725546/Cama-Saltarina-366-cm/114726802",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8850607_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura de Accion Movie the Hedgehog 3 Shadow",
+                "marca": "SONIC",
+                "precio_oferta": "S/ 149.90",
+                "precio_original": "S/ 159",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139292412/Figura-de-Accion-Movie-Sonic-the-Hedgehog-3-Shadow/139292413",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139292413_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Coche de Bebe plegable para Viaje ultra Compacto",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 379.90",
+                "precio_original": "S/ 380",
+                "descuento_porcentaje": 0,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141019974/Coche-de-Bebe-plegable-para-Viaje-ultra-Compacto/141019975",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141019975_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Casual Mujer",
+                "marca": "SYBILLA",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883345415/Casaca-Casual-Mujer-Sybilla/883345429",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883345429_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pantalón Algodón Mujer",
+                "marca": "UNIVERSITY CLUB",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883346825/Pantalon-Algodon-Mujer-University-Club/883346851",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883346851_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Demon Slayer Kimetsu no Yaiba SH Figuarts Tanjiro Kamado",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 374.90",
+                "precio_original": "S/ 395",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137078980/Demon-Slayer-Kimetsu-no-Yaiba-SH-Figuarts-Tanjiro-Kamado/137078981",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/137078981_03/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Freezer Dragon Ball Z SH Figuarts Frieza 4th Forma",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 279.90",
+                "precio_original": "S/ 295",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133670802/Freezer-Dragon-Ball-Z-SH-Figuarts-Frieza-4th-Forma/133670803",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/133670803_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Abrigo Casual Mujer",
+                "marca": "STEFANO COCCI",
+                "precio_oferta": "S/ 149.90",
+                "precio_original": "S/ 199.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883339518/Abrigo-Casual-Mujer-Stefano-Cocci/883339521",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883339521_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Casual Mujer",
+                "marca": "SYBILLA",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/881698543/Casaca-Casual-Mujer-Sybilla/881698548",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/881698548_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Caminador Bebé Musical Con Luces Y Sonidos",
+                "marca": "WINFUN",
+                "precio_oferta": "S/ 89.90",
+                "precio_original": "S/ 119.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/882887967/Caminador-Bebe-Winfun-Musical-Con-Luces-Y-Sonidos/882887967",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/882887967_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Blusa Manga Larga Casual Mujer",
+                "marca": "STEFANO COCCI",
+                "precio_oferta": "S/ 69.90",
+                "precio_original": "S/ 89.90",
+                "descuento_porcentaje": 22,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883341813/Blusa-Manga-Larga-Casual-Mujer-Stefano-Cocci/883341815",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883341815_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura de Accion My Hero Academia SH Figuarts Izuku Midoriya",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 659.90",
+                "precio_original": "S/ 695",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140001493/Figura-de-Accion-My-Hero-Academia-SH-Figuarts-Izuku-Midoriya/140001494",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140001494_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cama Saltarina 305 cm",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 499.90",
+                "precio_original": "S/ 749.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114456311/Cama-Saltarina-305-cm/114456313",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8850593_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Resbaladera Jirafa",
+                "marca": "EDU PLAY",
+                "precio_oferta": "S/ 114.90",
+                "precio_original": "S/ 129.90",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113325240/Resbaladera-Jirafa/113325241",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/2671719_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "La pelicula figuras de acción de Dennis El lobo",
+                "marca": "MINECRAFT",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142661047/Minecraft-La-pelicula-figuras-de-accion-de-Dennis-El-lobo/142661048",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142661048_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Naruto Shippuden SH Figuarts Sakura Haruno NARUTOP99",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 654.90",
+                "precio_original": "S/ 690",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141209252/Naruto-Shippuden-SH-Figuarts-Sakura-Haruno-NARUTOP99/141209253",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141209253_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set 2 Figuras Sonic 3 Super Shadow & Sonic con Luces",
+                "marca": "JAKKS PACIFIC",
+                "precio_oferta": "S/ 597.90",
+                "precio_original": "S/ 630",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142719651/Set-2-Figuras-Sonic-3-Super-Shadow-Sonic-con-Luces/142719652",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142719652_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cama Saltarina 137 cm",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 249.90",
+                "precio_original": "S/ 349.90",
+                "descuento_porcentaje": 29,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114457509/Cama-Saltarina-137-cm/114457518",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8850569_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cama Saltarina 240 cm",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 399.90",
+                "precio_original": "S/ 599.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114457669/Cama-Saltarina-240-cm/114457686",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8850585_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polera Algodón Mujer",
+                "marca": "UNIVERSITY CLUB",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883347522/Polera-Algodon-Mujer-University-Club/883347533",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883347533_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Biberón Natural 120Ml Vidrio Anticólicos 0M+",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 87.90",
+                "precio_original": "S/ 92.99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129432342/Biberon-Avent-Natural-120Ml-Vidrio-Anticolicos-0M+/129432345",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129432345_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Biberon De Vidrio Natural 3.0 De 240 Ml Con Tetina 1m+",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 98.99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129433208/Biberon-De-Vidrio-Avent-Natural-3.0-De-240-Ml-Con-Tetina-1m+/129433209",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129433209_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pijama Franela Niño",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 34.90",
+                "precio_original": "S/ 39.90",
+                "descuento_porcentaje": 13,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138341881/pijama-franela-nino-redwood/138341882",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43427398_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Biberón Natural Recién Nacido 2 Uni. 125 Ml Anticólicos Sin Bpa",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 121.90",
+                "precio_original": "S/ 128.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129569632/Biberon-Avent-Natural-Recien-Nacido-2-Uni.-125-Ml-Anticolicos-Sin-Bpa/129569633",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129569633_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cama Saltarina 183 cm",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 299.90",
+                "precio_original": "S/ 449.90",
+                "descuento_porcentaje": 33,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114460410/Cama-Saltarina-183-cm/114460425",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8850577_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Resbaladera Plegable",
+                "marca": "SCOOP",
+                "precio_oferta": "S/ 129.90",
+                "precio_original": "S/ 179.90",
+                "descuento_porcentaje": 28,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/113328174/Resbaladera-Plegable-Scoop/113328176",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8712573_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chompa Algodón Jaspeado Mujer Manga Larga",
+                "marca": "NEWPORT",
+                "precio_oferta": "S/ 69.90",
+                "precio_original": "S/ 99.90",
+                "descuento_porcentaje": 30,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883341759/Chompa-Algodon-Jaspeado-Newport-Mujer-Manga-Larga/883341766",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883341766_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Abrigo Casual Mujer",
+                "marca": "APOLOGY",
+                "precio_oferta": "S/ 179.90",
+                "precio_original": "S/ 229.90",
+                "descuento_porcentaje": 22,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883340650/Abrigo-Casual-Mujer-Apology/883340654",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883340654_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polera Mujer Algodón Manga Larga con Gorro",
+                "marca": "NEWPORT",
+                "precio_oferta": "S/ 69.90",
+                "precio_original": "S/ 89.90",
+                "descuento_porcentaje": 22,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883300573/Polera-Newport-Mujer-Algodon-Manga-Larga-con-Gorro/883300575",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883300575_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura Spiderman Marvel Legends Spider-Man Animated",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 397.90",
+                "precio_original": "S/ 419",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/128859980/Figura-Spiderman-Marvel-Legends-Spider-Man-Animated/128859982",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/128859982_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chompa Blusa Interna Mujer",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 49.90",
+                "precio_original": "S/ 54.90",
+                "descuento_porcentaje": 9,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137415499/chompa-blusa-interna-mujer-redwood/137415459",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43411114_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Ultraliviana Niña",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 29.90",
+                "precio_original": "S/ 39.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138530432/casaca-ultraliviana-nina-redwood/138530450",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43434560_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cama Saltarina 426 cm",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 899.90",
+                "precio_original": "S/ 999.90",
+                "descuento_porcentaje": 10,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114459736/Cama-Saltarina-426-cm/114459748",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8850615_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Billetera Hombre Cuero Color Negro Tarjetero Imantado Automático RFID",
+                "marca": "KASHITA",
+                "precio_oferta": "S/ 116.90",
+                "precio_original": "S/ 124",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/128721292/Billetera-Hombre-Cuero-Color-Negro-Tarjetero-Imantado-Automatico-RFID/128721293",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/128721293_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set Malla Deporte",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 119.90",
+                "precio_original": "S/ 199.90",
+                "descuento_porcentaje": 40,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129319237/Set-Malla-Deporte/129319239",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/9033009_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura Logan Legends Legacy Collection Wolverine",
+                "marca": "MARVEL",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/131654315/Figura-Logan-Marvel-Legends-Legacy-Collection-Wolverine/131654316",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/131654316_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Arco de Juguetes Multi Sensorial para Coche o Cuna- Mariposa",
+                "marca": "HUANGER",
+                "precio_oferta": "S/ 54.90",
+                "precio_original": "S/ 58",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/128857160/Arco-de-Juguetes-Multi-Sensorial-para-Coche-o-Cuna-Mariposa/128857161",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/128857161_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura de Acción Omega Red Legends Sauron",
+                "marca": "MARVEL",
+                "precio_oferta": "S/ 359.90",
+                "precio_original": "S/ 379",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129829950/Figura-de-Accion-Omega-Red-Marvel-Legends-Sauron/129829951",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129829951_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "AUTO COLECCION RAPIDOS Y FURIOSOS DODGE CHARGER DAYTONA 1 24",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 177.90",
+                "precio_original": "S/ 188",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138867611/AUTO-COLECCION-RAPIDOS-Y-FURIOSOS-DODGE-CHARGER-DAYTONA-1-24/138867612",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138867612_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Humidificador de Aroma de 500ml con Luz que cambia de Color",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 74.90",
+                "precio_original": "S/ 79",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/131843715/Humidificador-de-Aroma-de-500ml-con-Luz-que-cambia-de-Color/131843716",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/131843716_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Yu-Gi-Oh Figure Rise Standard Amplified Exodia Model Kit",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 330.90",
+                "precio_original": "S/ 349",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140672901/Yu-Gi-Oh-Figure-Rise-Standard-Amplified-Exodia-Model-Kit/140672902",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140672902_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "La pelicula Juego de figuras de acción Esqueleto",
+                "marca": "MINECRAFT",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142659952/Minecraft-La-pelicula-Juego-de-figuras-de-accion-Esqueleto/142659953",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142659953_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pulsera Piedra Natural León - Joyería Fenix",
+                "marca": "JOYERIA FENIX",
+                "precio_oferta": "S/ 55.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/132496684/Pulsera-Piedra-Natural-Leon-Joyeria-Fenix/132497144",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/132497144_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Tapon Oido Audífono Protector Auditivo Para Bebés -30db rosa",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141029948/Tapon-Oido-Audifono-Protector-Auditivo-Para-Bebes-30db-rosa/141029949",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141029949_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set Collar y Pendientes Crystal Heart Novia Amor Regalo Día de la Madre",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 159.90",
+                "precio_original": "S/ 169",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129944494/Set-Collar-y-Pendientes-Crystal-Heart-Novia-Amor-Regalo-Dia-de-la-Madre/129944495",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129944495_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "CHUPONES DE SILICONA DE 0 A 6 MESES PACK 2 UNI NIÑA",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 83.90",
+                "precio_original": "S/ 88.99",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/119087969/CHUPONES-AVENT-DE-SILICONA-DE-0-A-6-MESES-PACK-2-UNI-NINA/119087973",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/119087973_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mochila Deportiva Sport Maleta Trekking Laptop Viaje Camping Negra",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 55.90",
+                "precio_original": "S/ 59.95",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/122918400/Mochila-Deportiva-Sport-Maleta-Trekking-Laptop-Viaje-Camping-Negra/122918401",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/122918401_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "The Avengers Legends Captain America Bucky Barnes",
+                "marca": "MARVEL",
+                "precio_oferta": "S/ 279.90",
+                "precio_original": "S/ 295",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142388509/The-Avengers-Marvel-Legends-Captain-America-Bucky-Barnes/142388510",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142388510_071/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Dodge Charger 2006 Dom Rápidos Y Furiosos Escala 124 Metal",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 173.90",
+                "precio_original": "S/ 184",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142690363/Dodge-Charger-2006-Dom-Rapidos-Y-Furiosos-Escala-124-Metal/142690365",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142690365_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mochilas De Viaje Maleta Multifuncional 55L Notebook Laptop Gris",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99.95",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129519422/Mochilas-De-Viaje-Maleta-Multifuncional-55L-Notebook-Laptop-Gris/129519423",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129519423_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set de Joyería Deluxe",
+                "marca": "SO BEADS",
+                "precio_oferta": "S/ 44.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 10,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/882883876/Set-de-Joyeria-Deluxe/882883876",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/882883876_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura the Movie Hedgehog 3 Jakks Pacific",
+                "marca": "SONIC",
+                "precio_oferta": "S/ 98.90",
+                "precio_original": "S/ 119",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138392223/Figura-Sonic-the-Movie-Hedgehog-3-Jakks-Pacific/138392224",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138392224_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Naruto Shippuden SH Figuarts Naruto Uzumaki NARUTOP99",
+                "marca": "BANDAI",
+                "precio_oferta": "S/ 279.90",
+                "precio_original": "S/ 295",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136279546/Naruto-Shippuden-SH-Figuarts-Naruto-Uzumaki-NARUTOP99/136279547",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/136279547_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Jirafita Sensorial con Colgador Un Mundo por Descubrir",
+                "marca": "BABY",
+                "precio_oferta": "S/ 36.90",
+                "precio_original": "S/ 39",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129765222/Jirafita-Sensorial-con-Colgador-Un-Mundo-por-Descubrir/129765223",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129765223_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Haikyuu Nendoroid Nro 461 Shoyo Hinata",
+                "marca": "GOOD SMILE",
+                "precio_oferta": "S/ 450.90",
+                "precio_original": "S/ 475",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141406505/Haikyuu-Nendoroid-Nro-461-Shoyo-Hinata/141406506",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141406506_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Muñeco Interactivo Con Luces y Sonidos",
+                "marca": "BLUEY",
+                "precio_oferta": "S/ 330.90",
+                "precio_original": "S/ 349",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/143144874/Muneco-Interactivo-Bluey-Con-Luces-y-Sonidos/143144875",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143144875_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "AUTO COLECCION RAPIDOS Y FURIOSOS TOYOTA SUPRA SLAP JACK 124",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 197.90",
+                "precio_original": "S/ 209",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142676539/AUTO-COLECCION-RAPIDOS-Y-FURIOSOS-TOYOTA-SUPRA-SLAP-JACK-124/142676540",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142676540_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Bolso De Gama Alta Para Mujer Dama Gran Capacidad Cartera Lujo",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 84.90",
+                "precio_original": "S/ 89.99",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141397289/Bolso-De-Gama-Alta-Para-Mujer-Dama-Gran-Capacidad-Cartera-Lujo/142612168",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142612168_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Reloj TM 221045 Hombre + Estuche",
+                "marca": "TECHNOMARINE",
+                "precio_oferta": "S/ 599",
+                "precio_original": "S/ 699",
+                "descuento_porcentaje": 14,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/20406061/Reloj-Technomarine-TM-221045-Hombre-+-Estuche/20406061",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/20406061_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Superman The Movie 1978 Christopher Reeve Mcfarlane",
+                "marca": "MCFARLANE TOYS",
+                "precio_oferta": "S/ 355.90",
+                "precio_original": "S/ 375",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140759304/Superman-The-Movie-1978-Christopher-Reeve-Mcfarlane/140759305",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140759305_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pulsera 7 Chakras Piedras Naturales - Joyería Fenix",
+                "marca": "JOYERIA FENIX",
+                "precio_oferta": "S/ 55.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135566806/Pulsera-7-Chakras-Piedras-Naturales-Joyeria-Fenix/143567586",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143567586_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chupon 6 A 18 Meses Ultra Aereado Pack 2 Uni + Estuche",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 88.90",
+                "precio_original": "S/ 93.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/130508396/Chupon-Avent-6-A-18-Meses-Ultra-Aereado-Pack-2-Uni-+-Estuche/130508397",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/130508397_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Collar Cruz con Cristales Regalo San Valentín Novia - Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 121.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126900600/Collar-Cruz-con-Cristales-Regalo-San-Valentin-Novia-Genieka/126900601",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126900601_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Collar Crystal Heart - Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 121.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121514900/Collar-Crystal-Heart-Genieka/121514904",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121514904_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "AUTO COLECCION RAPIDOS Y FURIOSOS PLYMOUTH ROAD RUNNER 1: 24",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 186.90",
+                "precio_original": "S/ 197",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142675465/AUTO-COLECCION-RAPIDOS-Y-FURIOSOS-PLYMOUTH-ROAD-RUNNER-1:-24/142675466",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142675466_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "HONDA S2000 SUKI RAPIDOS Y FURIOSOS ESCALA 124 METAL",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 185.90",
+                "precio_original": "S/ 196",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139611392/HONDA-S2000-SUKI-RAPIDOS-Y-FURIOSOS-ESCALA-124-METAL/139611393",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139611393_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "AUTO COLECCION RAPIDOS Y FURIOSOS SUBARU IMPREZA 1 / 24",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126627298/AUTO-COLECCION-RAPIDOS-Y-FURIOSOS-SUBARU-IMPREZA-1-24/126627299",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126627299_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack Biberon Recien Nacido Philips Classic 125ml - 2 U",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 78.90",
+                "precio_original": "S/ 98.99",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139962992/Pack-Biberon-Recien-Nacido-Philips-Avent-Classic-125ml-2-U/139962995",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139962995_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura Deadpool Legends Deadpool & Wolverine Movie",
+                "marca": "MARVEL",
+                "precio_oferta": "S/ 188.90",
+                "precio_original": "S/ 199",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137957014/Figura-Deadpool-Marvel-Legends-Deadpool-Wolverine-Movie/137957016",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/137957016_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Blusa Manga Larga Casual Mujer Newport",
+                "marca": "STEFANO COCCI",
+                "precio_oferta": "S/ 53.94",
+                "precio_original": "S/ 89.90",
+                "descuento_porcentaje": 40,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883300363/Blusa-Manga-Larga-Casual-Mujer-Newport/883300373",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883300373_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set de Estimulación para Bebés NIÑO - Medias y Muñequeras",
+                "marca": "BABY",
+                "precio_oferta": "S/ 39.90",
+                "precio_original": "S/ 42",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/130687571/Set-de-Estimulacion-para-Bebes-NINO-Medias-y-Munequeras/130687572",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/130687572_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "AUTO COLECCION RAPIDOS Y FURIOSOS DODGE CHARGER POLICIA 124",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 169.90",
+                "precio_original": "S/ 179",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129652186/AUTO-COLECCION-RAPIDOS-Y-FURIOSOS-DODGE-CHARGER-POLICIA-124/129652187",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129652187_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Coche De Equilibrio Carrito Para Niños Con Remolque Rojo",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 122.90",
+                "precio_original": "S/ 129.99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139180678/Coche-De-Equilibrio-Carrito-Para-Ninos-Con-Remolque-Rojo/139180679",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139180679_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "AUTO COLECCION RAPIDOS Y FURIOSOS MCLAREN 720S ESCALA 1: 24",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 177.90",
+                "precio_original": "S/ 188",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138868089/AUTO-COLECCION-RAPIDOS-Y-FURIOSOS-MCLAREN-720S-ESCALA-1:-24/138868090",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138868090_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "CAMIONETA COLECCION RAPIDOS Y FURIOSOS JEEP GLADIATOR 1: 24",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 165.90",
+                "precio_original": "S/ 175",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139119251/CAMIONETA-COLECCION-RAPIDOS-Y-FURIOSOS-JEEP-GLADIATOR-1:-24/139119252",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139119252_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "AUTO COLECCION RAPIDOS Y FURIOSOS LAMBORGHINI SUPERLEGGERA",
+                "marca": "JADA TOYS",
+                "precio_oferta": "S/ 177.90",
+                "precio_original": "S/ 188",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139251604/AUTO-COLECCION-RAPIDOS-Y-FURIOSOS-LAMBORGHINI-SUPERLEGGERA/139251605",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139251605_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "CANGURO ORIGINAL UNISEX",
+                "marca": "PORTA",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129161277/CANGURO-PORTA-ORIGINAL-UNISEX/129161278",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129161278_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Goo Jit Zu Estirable Elásticos Friends Green",
+                "marca": "RAINBOW",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/143986063/Goo-Jit-Zu-Estirable-Elasticos-Rainbow-Friends-Green/143986064",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143986064_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Peluche Cocodrilo Sensorial con Sonajero y Texturas de Bebé",
+                "marca": "JOLLYBABY",
+                "precio_oferta": "S/ 45.90",
+                "precio_original": "S/ 49",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141648522/Peluche-Cocodrilo-Sensorial-con-Sonajero-y-Texturas-de-Bebe/141648523",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141648523_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Craft-A-Block Alex vs Phantom Core Figure Two-Pack",
+                "marca": "MINECRAFT",
+                "precio_oferta": "S/ 279.90",
+                "precio_original": "S/ 295",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137674125/Minecraft-Craft-A-Block-Alex-vs-Phantom-Core-Figure-Two-Pack/137674126",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/137674126_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Legends Retro Collection Spider-Man Unlimited",
+                "marca": "MARVEL",
+                "precio_oferta": "S/ 279.90",
+                "precio_original": "S/ 295",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142149661/Marvel-Legends-Retro-Collection-Spider-Man-Unlimited/142149662",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142149662_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rodillo de Estimulación Importado Multi Actividades Rosado",
+                "marca": "MEYING",
+                "precio_oferta": "S/ 46.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129822872/Rodillo-de-Estimulacion-Importado-Multi-Actividades-Rosado/129822873",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129822873_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "TOYOTA TUNDRA CON LUZ Y SONIDOS ESCALA 1 24 METAL",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 169.90",
+                "precio_original": "S/ 179",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142515043/TOYOTA-TUNDRA-CON-LUZ-Y-SONIDOS-ESCALA-1-24-METAL/142515046",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142515046_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chupon 0 A 6 M Nocturno Ultra Aereado + Estuche-pack 2",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 84.90",
+                "precio_original": "S/ 89.98",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/132817988/Chupon-Avent-0-A-6-M-Nocturno-Ultra-Aereado-+-Estuche-pack-2/132817989",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/132817989_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Vestido Vanna - Nébula - Rojo",
+                "marca": "NEBULA",
+                "precio_oferta": "S/ 60.90",
+                "precio_original": "S/ 64.95",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121377681/Vestido-Vanna-Nebula-Rojo/121377683",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121377683_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Vestido Vanna - Nébula - Celeste",
+                "marca": "NEBULA",
+                "precio_oferta": "S/ 60.90",
+                "precio_original": "S/ 64.95",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121377640/Vestido-Vanna-Nebula-Celeste/121377642",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121377642_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Vestido Vanna - Nébula - Negro",
+                "marca": "NEBULA",
+                "precio_oferta": "S/ 60.90",
+                "precio_original": "S/ 64.95",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121377574/Vestido-Vanna-Nebula-Negro/121377579",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121377579_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cactus Bailarín Grabación Imitación 120 Canciones Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137492861/Cactus-Bailarin-Grabacion-Imitacion-120-Canciones-Genieka/137492862",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/137492862_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Anillo de Compromiso Corona Bañado en Oro 18K Aniversario - Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 188.90",
+                "precio_original": "S/ 199",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126838757/Anillo-de-Compromiso-Corona-Banado-en-Oro-18K-Aniversario-Genieka/126838760",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126838760_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura de Accion Flexible BendyFigs Balthazar Bratt",
+                "marca": "MINIONS",
+                "precio_oferta": "S/ 279.90",
+                "precio_original": "S/ 295",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139291650/Figura-de-Accion-Flexible-BendyFigs-Minions-Balthazar-Bratt/139291651",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139291651_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Dije de José Gregorio Hernández y Cadena en Plata",
+                "marca": "SANTORAL",
+                "precio_oferta": "S/ 140.90",
+                "precio_original": "S/ 149",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/132106554/Dije-de-Jose-Gregorio-Hernandez-y-Cadena-en-Plata/132106555",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/132106555_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Saco de Dormir Sleeping Envolvente de Oso Bebé 6-12M Mocca",
+                "marca": "BE CRAFTY",
+                "precio_oferta": "S/ 83.90",
+                "precio_original": "S/ 89",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135491611/Saco-de-Dormir-Sleeping-Envolvente-de-Oso-Bebe-6-12M-Mocca/135491612",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/135491612_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mega pack juegos de mesa papalomo games-multicolor",
+                "marca": "PAPALOMO GAMES",
+                "precio_oferta": "S/ 169.90",
+                "precio_original": "S/ 179.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/119103414/Mega-pack-juegos-de-mesa-papalomo-games-multicolor/119103415",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/119103415_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mochilas de Viaje 75 Litros Trekking Camping Impermeable",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 122.90",
+                "precio_original": "S/ 129.99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141152637/Mochilas-de-Viaje-75-Litros-Trekking-Camping-Impermeable/141152660",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141152660_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Heroes of Goo Jit Zu elásticos Steve con Espada",
+                "marca": "MINECRAFT",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/143045065/Heroes-of-Goo-Jit-Zu-Minecraft-elasticos-Steve-con-Espada/143045066",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143045066_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Tomatodo De Tritan Frozen 540Ml",
+                "marca": "STOR",
+                "precio_oferta": "S/ 9.90",
+                "precio_original": "S/ 19.90",
+                "descuento_porcentaje": 50,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/119459259/Tomatodo-De-Tritan-Frozen-540Ml/119459260",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8975868_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Heroes of Goo Jit Zu elásticos enredadera Creeper",
+                "marca": "MINECRAFT",
+                "precio_oferta": "S/ 178.90",
+                "precio_original": "S/ 189",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/143014647/Heroes-of-Goo-Jit-Zu-Minecraft-elasticos-enredadera-Creeper/143014648",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143014648_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack juegos de mesa - c.t.m. y amigos h.d.p.",
+                "marca": "PAPALOMO GAMES",
+                "precio_oferta": "S/ 103.90",
+                "precio_original": "S/ 109.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/117378590/Pack-juegos-de-mesa-c.t.m.-y-amigos-h.d.p./117378591",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/117378591_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mochila Para Viaje Maleta Ejecutiva Laptop Negocios Gran Capacidad",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 84.90",
+                "precio_original": "S/ 89.95",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140973440/Mochila-Para-Viaje-Maleta-Ejecutiva-Laptop-Negocios-Gran-Capacidad/140973441",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140973441_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mochilas De Viaje Maleta Multifuncional 55L Notebook Laptop Negro",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99.95",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129519793/Mochilas-De-Viaje-Maleta-Multifuncional-55L-Notebook-Laptop-Negro/129519794",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129519794_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Saco de Dormir Sleeping Envolvente de Oso Bebé 6-12 Castaña",
+                "marca": "BE CRAFTY",
+                "precio_oferta": "S/ 83.90",
+                "precio_original": "S/ 89",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135583085/Saco-de-Dormir-Sleeping-Envolvente-de-Oso-Bebe-6-12-Castana/135583086",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/135583086_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pijama Coral Niño",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 34.90",
+                "precio_original": "S/ 39.90",
+                "descuento_porcentaje": 13,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138402995/pijama-coral-nino-redwood/138403038",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43431709_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Figura de acción Steve y Accesorios",
+                "marca": "MINECRAFT",
+                "precio_oferta": "S/ 140.90",
+                "precio_original": "S/ 149",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142660140/Minecraft-Figura-de-accion-Steve-y-Accesorios/142660141",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142660141_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Collar Corazón Dorado - Plata",
+                "marca": "SANTORAL",
+                "precio_oferta": "S/ 82.90",
+                "precio_original": "S/ 88",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/143016709/Collar-Corazon-Dorado-Plata/143016710",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143016710_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carro F1 Ferrari 1:24 Bburago Ferrari Fórmula 1",
+                "marca": "BURAGO",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 23,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883459736/Carro-F1-Ferrari-1:24-Bburago-Ferrari-Formula-1/883459736",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883459736_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Juego de Frutas y Verduras para Cortar de 26 Piezas en CAJA",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 50.90",
+                "precio_original": "S/ 54",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/132180674/Juego-de-Frutas-y-Verduras-para-Cortar-de-26-Piezas-en-CAJA/132180675",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/132180675_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "4 PIEZAS LENCERIA LOLITAS NOVIA",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 112.90",
+                "precio_original": "S/ 119.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140839180/4-PIEZAS-LENCERIA-LOLITAS-NOVIA/140839181",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140839181_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Táper Tipo Bentgo Box Hermético De 4 Divisiones Con Cubierto",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 83.90",
+                "precio_original": "S/ 89",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/128710850/Taper-Tipo-Bentgo-Box-Hermetico-De-4-Divisiones-Con-Cubierto/128710851",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/128710851_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Tetina Philips Clasicc Para Bebes +6m - Pack De 2 Uni",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 46.90",
+                "precio_original": "S/ 49.99",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137473048/Tetina-Philips-Avent-Clasicc-Para-Bebes-+6m-Pack-De-2-Uni/137473050",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/137473050_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pulsera Zodiacal Piedra Natural 6mm - Joyería Fénix",
+                "marca": "JOYERIA FENIX",
+                "precio_oferta": "S/ 51.90",
+                "precio_original": "S/ 54.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/134015099/Pulsera-Zodiacal-Piedra-Natural-6mm-Joyeria-Fenix/134028326",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/134028326_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pantalón Neo Tribe Para Hombre - Estilo Moderno",
+                "marca": "ENKI",
+                "precio_oferta": "S/ 64.90",
+                "precio_original": "S/ 68.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142883859/Pantalon-Enki-Neo-Tribe-Para-Hombre-Estilo-Moderno/142883878",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142883878_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rompecabezas Paisaje 1000 Pzas",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 14.90",
+                "precio_original": "S/ 16.90",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136975956/rompecabezas-paisaje-6-1000-piezas/136975957",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43406511_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pulsera Piedra Natural 8mm Joyería Fenix",
+                "marca": "JOYERIA FENIX",
+                "precio_oferta": "S/ 51.90",
+                "precio_original": "S/ 54.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133231067/Pulsera-Piedra-Natural-8mm-Joyeria-Fenix/133231147",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/133231147_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Ropa Baño Bikini Black Silver Pool Party Push Up Traje Playa Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 131.90",
+                "precio_original": "S/ 139",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138309634/Ropa-Bano-Bikini-Black-Silver-Pool-Party-Push-Up-Traje-Playa-Genieka/138309635",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138309635_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rompecabezas Perritos 1000 Pzas",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 14.90",
+                "precio_original": "S/ 16.90",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136975843/rompecabezas-perritos-2-1000-piezas/136975844",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43406516_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rompecabezas Vista 1000 Pzas",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 14.90",
+                "precio_original": "S/ 16.90",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136979180/rompecabezas-vista-2-1000-piezas/136979181",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43406507_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "MOCHILA ORIGINAL GRANA",
+                "marca": "PORTA",
+                "precio_oferta": "S/ 264.90",
+                "precio_original": "S/ 279",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/119274149/MOCHILA-PORTA-ORIGINAL-GRANA/119274150",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/119274150_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pijama Coral Niña",
+                "marca": "REDWOOD",
+                "precio_oferta": "S/ 34.90",
+                "precio_original": "S/ 39.90",
+                "descuento_porcentaje": 13,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138402953/pijama-coral-nina-redwood/138402956",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43431694_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Gimnasio Grande Multifuncional con Arco de Juguetes Turquesa",
+                "marca": "HUANGER",
+                "precio_oferta": "S/ 121.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129650021/Gimnasio-Grande-Multifuncional-con-Arco-de-Juguetes-Turquesa/129650022",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129650022_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Muñeco Peluche Juguete Osa Rosa Tejido en Algodón",
+                "marca": "BE CRAFTY",
+                "precio_oferta": "S/ 83.90",
+                "precio_original": "S/ 89",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/115780333/Muneco-Peluche-Juguete-Osa-Rosa-BE-CRAFTY-Tejido-en-Algodon/115780334",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/115780334_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Arnes para Caminar 3 en 1 para Bebés VERDE",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 64",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/132475291/Arnes-para-Caminar-3-en-1-para-Bebes-VERDE/132475292",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/132475292_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Libro Montessori de Fieltro para Niños - Explora y Aprende",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 81.90",
+                "precio_original": "S/ 87",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133353913/Libro-Montessori-de-Fieltro-para-Ninos-Explora-y-Aprende/133353914",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/133353914_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Mega drinking pack - juegos papalomo",
+                "marca": "PAPALOMO GAMES",
+                "precio_oferta": "S/ 131.90",
+                "precio_original": "S/ 139.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/115586495/Mega-drinking-pack-juegos-papalomo/115586497",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/115586497_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Faja Moldeadora Velform Sin Costuras Define Cintura Derrier Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139155286/Faja-Moldeadora-Velform-Sin-Costuras-Define-Cintura-Derrier-Genieka/139155289",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139155289_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Cubo Sensorial de Animalitos - Explora Encaja y Aprende",
+                "marca": "BABY",
+                "precio_oferta": "S/ 40.90",
+                "precio_original": "S/ 44",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139577839/Cubo-Sensorial-de-Animalitos-Explora-Encaja-y-Aprende/139577840",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139577840_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Lentes de Sol Aesthetics Banan para Hombre y Mujer",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 87.90",
+                "precio_original": "S/ 93.50",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/131655558/Lentes-de-Sol-Aesthetics-Banan-para-Hombre-y-Mujer/131655559",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/131655559_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Chupon 6 A 18 Meses Ultra Aereado Pack 2 Uni + Estuche",
+                "marca": "AVENT",
+                "precio_oferta": "S/ 88.90",
+                "precio_original": "S/ 93.90",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/130509022/Chupon-Avent-6-A-18-Meses-Ultra-Aereado-Pack-2-Uni-+-Estuche/130509023",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/130509023_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pop Sanrio Hello Kitty - Kuromi with Ice Cream",
+                "marca": "FUNKO",
+                "precio_oferta": "S/ 74.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142818696/Funko-Pop-Sanrio-Hello-Kitty-Kuromi-with-Ice-Cream/142818697",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142818697_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Carpa Infantil 130x102cm Rosa",
+                "marca": "DO IT",
+                "precio_oferta": "S/ 39.90",
+                "precio_original": "S/ 49.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/114706997/Carpa-Infantil-130x102cm-Rosa/114708419",
+                "imagen": "https://media.falabella.com.pe/sodimacPE/8863814_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set 6 Pelotas Sensoriales de Diferentes Texturas para Bebés",
+                "marca": "HUANGER",
+                "precio_oferta": "S/ 39.90",
+                "precio_original": "S/ 42",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138043020/Set-6-Pelotas-Sensoriales-de-Diferentes-Texturas-para-Bebes/138043021",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138043021_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "BILLETERA RENZO ELEGANCIA URBANA PARIC MARRÓN",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 129.90",
+                "precio_original": "S/ 132.90",
+                "descuento_porcentaje": 2,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/143305263/BILLETERA-RENZO-ELEGANCIA-URBANA-PARIC-MARRON/143305264",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143305264_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Gimnasio Piano Musical y Caminador para Bebés: 2 en 1",
+                "marca": "HUANGER",
+                "precio_oferta": "S/ 103.90",
+                "precio_original": "S/ 110",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136231703/Gimnasio-Piano-Musical-y-Caminador-para-Bebes:-2-en-1/136231706",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/136231706_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polo Boxy Fit Oversize de Algodón - Polo Boxyfit",
+                "marca": "ALPHA FIT",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140871063/Polo-Boxy-Fit-Oversize-de-Algodon-Polo-Boxyfit/140871072",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140871072_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack de Joyas Shiny Cuadrado Crystal y Aretes Collar -San Valentín",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121519943/Pack-de-Joyas-Shiny-Cuadrado-Crystal-y-Aretes-Collar-San-Valentin/121519945",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121519945_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pelotas Sensoriales para Bebés x4 Unidades Explora y Juega",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 36.90",
+                "precio_original": "S/ 39",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/129747430/Pelotas-Sensoriales-para-Bebes-x4-Unidades-Explora-y-Juega/129747431",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/129747431_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Rompecabezas Paisaje 1000 Pzas",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 14.90",
+                "precio_original": "S/ 16.90",
+                "descuento_porcentaje": 12,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136975945/rompecabezas-paisaje-7-1000-piezas/136975946",
+                "imagen": "https://media.falabella.com.pe/tottusPE/43406512_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "TRIMOTO RECARGABLE MODELO POLICÍA PARA NIÑO",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 216.90",
+                "precio_original": "S/ 229",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139118127/TRIMOTO-RECARGABLE-MODELO-POLICIA-PARA-NINO/139118128",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139118128_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pop Dragon Ball Super Broly Goku - Goku",
+                "marca": "FUNKO",
+                "precio_oferta": "S/ 74.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140946522/Funko-Pop-Dragon-Ball-Super-Broly-Goku-Goku/140946523",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140946523_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pop Dragon Ball Super Broly - Super Saiyan God Vegeta - Vegeta",
+                "marca": "FUNKO",
+                "precio_oferta": "S/ 74.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140946524/Funko-Pop-Dragon-Ball-Super-Broly-Super-Saiyan-God-Vegeta-Vegeta/140946525",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140946525_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Juguete Rodillo para la Estimulación de Gateo del Bebé AZUL",
+                "marca": "BABY",
+                "precio_oferta": "S/ 48.90",
+                "precio_original": "S/ 52",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/138392140/Juguete-Rodillo-para-la-Estimulacion-de-Gateo-del-Bebe-AZUL/138392141",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/138392141_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Billetera de hombre Rfid antirrobo",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 63.90",
+                "precio_original": "S/ 67.80",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136524499/Billetera-de-hombre-Rfid-antirrobo/136524500",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/136524500_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pulsera Ojo Turco Ajustable - Joyería Fénix",
+                "marca": "JOYERIA FENIX",
+                "precio_oferta": "S/ 41.90",
+                "precio_original": "S/ 44.90",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/141398367/Pulsera-Ojo-Turco-Ajustable-Joyeria-Fenix/141398418",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/141398418_02/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Anillo Compromiso Imperial Deluxe Bañado Oro 18K Aniversario - Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 188.90",
+                "precio_original": "S/ 199",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126846378/Anillo-Compromiso-Imperial-Deluxe-Banado-Oro-18K-Aniversario-Genieka/126846381",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126846381_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set 6 Piezas Reloj Mujer Anillo Aretes Pulsera Collar San Valentín",
+                "marca": "GENEVA",
+                "precio_oferta": "S/ 254.90",
+                "precio_original": "S/ 269",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140877671/Set-6-Piezas-Reloj-Mujer-Anillo-Aretes-Pulsera-Collar-San-Valentin/140877672",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140877672_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Anillo de Compromiso Corona Bañado en Oro 18K Aro San Valentín Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 188.90",
+                "precio_original": "S/ 199",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121386051/Anillo-de-Compromiso-Corona-Banado-en-Oro-18K-Aro-San-Valentin-Genieka/121386055",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121386055_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Vestido Niña Blanco Little Girl White - Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 131.90",
+                "precio_original": "S/ 139",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121531822/Vestido-Nina-Blanco-Little-Girl-White-Genieka/121532772",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121532772_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Juego de Collar y Aretes Turquoise Heart Bisuteria Regalo",
+                "marca": "GENIEKA",
+                "precio_oferta": "S/ 121.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/139861976/Juego-de-Collar-y-Aretes-Turquoise-Heart-Bisuteria-Regalo-Genieka/139861977",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/139861977_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set Top Falda Fucsia Sexy Fiesta Edición Limitada Con Cadena Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 273.90",
+                "precio_original": "S/ 289",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135754810/Set-Top-Falda-Fucsia-Sexy-Fiesta-Edicion-Limitada-Con-Cadena-Genieka/135754811",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/135754811_03/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack 6 Piezas Reloj Lujo Anillo Aretes Pulsera Collar Mujer Genieka_.",
+                "marca": "GENEVA",
+                "precio_oferta": "S/ 254.90",
+                "precio_original": "S/ 269",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126509198/Pack-6-Piezas-Reloj-Lujo-Anillo-Aretes-Pulsera-Collar-Mujer-Genieka_./126509199",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126509199_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Conjunto Lencería Negro Push Up Sujetador Trusa Moda Verano Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 93.90",
+                "precio_original": "S/ 99",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/128606326/Conjunto-Lenceria-Negro-Push-Up-Sujetador-Trusa-Moda-Verano-Genieka/128606328",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/128606328_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "PELUCHE CAPIBARA DE 60CM",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 136.90",
+                "precio_original": "S/ 145",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/137988138/PELUCHE-CAPIBARA-DE-60CM/137988140",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/137988140_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Anillo de Matrimonio Diamods Dream Hombre Bañado Oro 18K Novio Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 159.90",
+                "precio_original": "S/ 169",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/126913981/Anillo-de-Matrimonio-Diamods-Dream-Hombre-Banado-Oro-18K-Novio-Genieka/126913985",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/126913985_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack Niña- Rodillo para el Tummy Time + Cangrejito Bailarín",
+                "marca": "BABY",
+                "precio_oferta": "S/ 60.90",
+                "precio_original": "S/ 65",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/133915699/Pack-Nina-Rodillo-para-el-Tummy-Time-+-Cangrejito-Bailarin/133915700",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/133915700_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Anillo Compromiso Diamonds Bañado18K Aniversario San Valentín Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 150.90",
+                "precio_original": "S/ 159",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/140821438/Anillo-Compromiso-Diamonds-Banado18K-Aniversario-San-Valentin-Genieka/140821443",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/140821443_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Anillo de Matrimonio Alianza Classic Hombre Bañado Oro 18K Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 150.90",
+                "precio_original": "S/ 159",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121440204/Anillo-de-Matrimonio-Alianza-Classic-Hombre-Banado-Oro-18K-Genieka/121440205",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121440205_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Escalera de Entrenamiento 2 en 1 Para Ir Al Baño para Niños",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 121.90",
+                "precio_original": "S/ 129",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/143338463/Escalera-de-Entrenamiento-2-en-1-Para-Ir-Al-Bano-para-Ninos/143338464",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143338464_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pack Niño - Cojin para Tummy Time + Cangrejito Bailarín",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 60.90",
+                "precio_original": "S/ 65",
+                "descuento_porcentaje": 6,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/136517617/Pack-Nino-Cojin-para-Tummy-Time-+-Cangrejito-Bailarin/136517618",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/136517618_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            }
+        ]
+    },
+    "moda_mujer": {
+        "info": {
+            "nombre": "👠 Moda Mujer",
+            "url": "https://www.falabella.com.pe/falabella-pe/category/cat4100462/Moda-Mujer",
+            "descuento_minimo": 0,
+            "icono": "fas fa-female"
+        },
+        "productos": [
+            {
+                "nombre": "Chaleco Casual Mujer",
+                "marca": "STEFANO COCCI",
+                "precio_oferta": "S/ 99.90",
+                "precio_original": "S/ 119.90",
+                "descuento_porcentaje": 17,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883447904/Chaleco-Casual-Mujer-Stefano-Cocci/883447916",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883447916_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Pantalón Algodón Mujer",
+                "marca": "UNIVERSITY CLUB",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883346825/Pantalon-Algodon-Mujer-University-Club/883346851",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883346851_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Polera Algodón Mujer",
+                "marca": "UNIVERSITY CLUB",
+                "precio_oferta": "S/ 59.90",
+                "precio_original": "S/ 79.90",
+                "descuento_porcentaje": 25,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883347522/Polera-Algodon-Mujer-University-Club/883347533",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883347533_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Casaca Casual Mujer",
+                "marca": "APOLOGY",
+                "precio_oferta": "S/ 159.90",
+                "precio_original": "S/ 199.90",
+                "descuento_porcentaje": 20,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883341939/Casaca-Casual-Mujer-Apology/883341941",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883341941_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            }
+        ]
+    },
+    "zapatos_mujer": {
+        "info": {
+            "nombre": "👡 Zapatos Mujer",
+            "url": "https://www.falabella.com.pe/falabella-pe/category/cat1470526/Zapatos-Mujer",
+            "descuento_minimo": 0,
+            "icono": "fas fa-shoe-prints"
+        },
+        "productos": [
+            {
+                "nombre": "Zapatillas Urbanas Mujer",
+                "marca": "ALDO",
+                "precio_oferta": "S/ 229.90",
+                "precio_original": "S/ 269.90",
+                "descuento_porcentaje": 15,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/20144605/Zapatillas-Urbanas-Mujer-Aldo/20144607",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/20144607_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Botas Mujer",
+                "marca": "BASEMENT",
+                "precio_oferta": "S/ 129.90",
+                "precio_original": "S/ 229.90",
+                "descuento_porcentaje": 43,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883358918/Botas-Mujer-Basement/883358919",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883358919_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Botas Mujer",
+                "marca": "SYBILLA",
+                "precio_oferta": "S/ 109.90",
+                "precio_original": "S/ 229.90",
+                "descuento_porcentaje": 52,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883314059/Botas-Mujer-Sybilla/883314071",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883314071_1/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Botas Mujer",
+                "marca": "BASEMENT",
+                "precio_oferta": "S/ 129.90",
+                "precio_original": "S/ 229.90",
+                "descuento_porcentaje": 43,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883358946/Botas-Mujer-Basement/883358951",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883358951_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Botas Mujer",
+                "marca": "SYBILLA",
+                "precio_oferta": "S/ 109.90",
+                "precio_original": "S/ 249.90",
+                "descuento_porcentaje": 56,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883302312/Botas-Mujer-Sybilla/883302318",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883302318_10/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Botas Mujer",
+                "marca": "BASEMENT",
+                "precio_oferta": "S/ 129.90",
+                "precio_original": "S/ 229.90",
+                "descuento_porcentaje": 43,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883358939/Botas-Mujer-Basement/883358942",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883358942_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Botas Mujer",
+                "marca": "SYBILLA",
+                "precio_oferta": "S/ 109.90",
+                "precio_original": "S/ 249.90",
+                "descuento_porcentaje": 56,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/883314079/Botas-Mujer-Sybilla/883314084",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/883314084_10/width=240,height=240,quality=70,format=webp,fit=pad"
+            }
+        ]
+    },
+    "joyas_mujer": {
+        "info": {
+            "nombre": "💎 Joyas Mujer",
+            "url": "https://www.falabella.com.pe/falabella-pe/category/cat4350568/Joyas-mujer",
+            "descuento_minimo": 0,
+            "icono": "fas fa-gem"
+        },
+        "productos": [
+            {
+                "nombre": "Pulsera 7 Chakras Piedras Naturales - Joyería Fenix",
+                "marca": "JOYERIA FENIX",
+                "precio_oferta": "S/ 55.90",
+                "precio_original": "S/ 59.90",
+                "descuento_porcentaje": 7,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/135566806/Pulsera-7-Chakras-Piedras-Naturales-Joyeria-Fenix/143567586",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/143567586_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Set Collar Aretes y Pulsera Trébol Negro Cinco Pétalos Mujer",
+                "marca": "GENIEKA",
+                "precio_oferta": "S/ 131.90",
+                "precio_original": "S/ 139",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/142447645/Set-Collar-Aretes-y-Pulsera-Trebol-Negro-Cinco-Petalos-Mujer-Genieka/142447646",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/142447646_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            },
+            {
+                "nombre": "Anillo Matrimonio Alianzas Eternal Mujer Bañado Oro Blanco Genieka",
+                "marca": "GENERICO",
+                "precio_oferta": "S/ 150.90",
+                "precio_original": "S/ 159",
+                "descuento_porcentaje": 5,
+                "link": "https://www.falabella.com.pe/falabella-pe/product/121431057/Anillo-Matrimonio-Alianzas-Eternal-Mujer-Banado-Oro-Blanco-Genieka/121431058",
+                "imagen": "https://media.falabella.com.pe/falabellaPE/121431058_01/width=240,height=240,quality=70,format=webp,fit=pad"
+            }
+        ]
+    },
+    "maquillaje": {
+        "info": {
+            "nombre": "💄 Maquillaje",
+            "url": "https://www.falabella.com.pe/falabella-pe/category/cat560663/Maquillaje",
+            "descuento_minimo": 0,
+            "icono": "fas fa-palette"
+        },
+        "productos": []
+    }
+}
