@@ -1,0 +1,36 @@
+name: Actualizar ofertas Falabella
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # todos los días a las 6 AM UTC
+  workflow_dispatch:      # para poder correrlo manualmente también
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Clonar repositorio
+      uses: actions/checkout@v3
+
+    - name: Instalar Python y dependencias
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Instalar Playwright
+      run: |
+        pip install playwright
+        playwright install chromium
+
+    - name: Ejecutar scraper
+      run: |
+        python scripts/scraper_multi_categoria       
+
+    - name: Subir cambios a GitHub
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add index.html
+        git commit -m "Actualización automática diaria"
+        git push
