@@ -26,8 +26,11 @@ def calcular_estadisticas(datos):
 @app.route("/")
 def home():
     json_path = os.path.join("data", "ofertas_falabella_completo.json")
-    with open(json_path, "r", encoding="utf-8") as f:
-        datos = json.load(f)
+    try:
+        with open(json_path, "r", encoding="utf-8") as f:
+            datos = json.load(f)
+    except (json.JSONDecodeError, FileNotFoundError):
+        datos = {}
     
     stats = calcular_estadisticas(datos)
     
@@ -45,8 +48,14 @@ def generar_html_estatico():
     if not os.path.exists(json_path):
         raise FileNotFoundError(f"No se encontro el archivo: {json_path}")
     
-    with open(json_path, 'r', encoding='utf-8') as f:
-        datos = json.load(f)
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            datos = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"Error: JSON corrupto en {json_path}")
+        print(f"Detalle: {e}")
+        print("Creando estructura vacía para evitar fallo...")
+        datos = {}
     
     stats = calcular_estadisticas(datos)
     

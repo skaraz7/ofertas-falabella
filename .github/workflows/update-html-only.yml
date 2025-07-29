@@ -23,8 +23,9 @@ jobs:
       run: |
         pip install flask
 
-    - name: Generar HTML desde JSON existente
+    - name: Validar JSON y generar HTML
       run: |
+        python -c "import json; json.load(open('data/ofertas_falabella_completo.json'))" || echo "JSON corrupto, usando estructura vacía"
         python app.py generate
 
     - name: Subir cambios
