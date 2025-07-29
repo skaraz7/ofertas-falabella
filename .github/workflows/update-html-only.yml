@@ -1,0 +1,36 @@
+name: Actualizar solo HTML
+
+on:
+  workflow_dispatch:  # Solo manual
+  push:
+    paths:
+      - 'scripts/ofertas_falabella_completo.json'  # Se ejecuta cuando cambia el JSON
+
+jobs:
+  update-html:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Clonar repositorio
+      uses: actions/checkout@v3
+
+    - name: Instalar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Generar HTML desde JSON existente
+      run: |
+        cd scripts
+        python generar_html.py
+
+    - name: Subir cambios
+      env:
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+        git add index.html
+        git commit -m "🎨 Actualización HTML desde JSON existente" || echo "No hay cambios"
+        git push origin HEAD:main
