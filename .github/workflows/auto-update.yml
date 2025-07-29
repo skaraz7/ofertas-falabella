@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # para poder correrlo manualmente también
 
 jobs:
-  build:
+  scrape-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,17 +23,24 @@ jobs:
         pip install playwright
         playwright install chromium
 
-    - name: Ejecutar scraper
+    - name: Ejecutar scraper JSON
       run: |
-        python scripts/scraper_mejorado.py   
+        cd scripts
+        python scraper_json.py
 
-    - name: Subir cambios al repositorio con token (corregido)
+    - name: Generar HTML desde JSON
+      run: |
+        cd scripts
+        python generar_html.py
+
+    - name: Subir cambios al repositorio
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+        git add scripts/ofertas_falabella_completo.json
         git add index.html
-        git commit -m "🔁 Actualización automática diaria" || echo "No hay cambios que commitear"
+        git commit -m "🔁 Actualización automática diaria - JSON y HTML" || echo "No hay cambios que commitear"
         git push origin HEAD:main
