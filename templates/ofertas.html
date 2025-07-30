@@ -36,6 +36,11 @@
                     <button class="filter-btn active" data-category="all">
                         <i class="fas fa-th"></i> Todos los Productos
                     </button>
+                    {% for categoria_key, categoria_data in datos.items() %}
+                        <button class="filter-btn" data-category="{{ categoria_key }}">
+                            <i class="{{ categoria_data.info.icono }}"></i> {{ categoria_data.info.nombre }}
+                        </button>
+                    {% endfor %}
                 </div>
                 <button class="theme-toggle" title="Cambiar tema">
                     <i class="fas fa-moon" id="theme-icon"></i>
