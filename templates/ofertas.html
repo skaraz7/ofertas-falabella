@@ -32,20 +32,20 @@
     <nav class="controls">
         <div class="container">
             <div class="controls-grid">
-                <div class="sort-controls">
-                    <button class="sort-btn active" data-sort="none">
-                        <i class="fas fa-list"></i> Original
-                    </button>
-                    <button class="sort-btn" data-sort="discount">
-                        <i class="fas fa-percentage"></i> Descuento
-                    </button>
-                    <button class="sort-btn" data-sort="price">
-                        <i class="fas fa-dollar-sign"></i> Precio
-                    </button>
+                <div class="sort-section">
+                    <span class="sort-label">Ordenar por:</span>
+                    <div class="sort-controls">
+                        <button class="sort-btn active" data-sort="none">
+                            <i class="fas fa-list"></i> Original
+                        </button>
+                        <button class="sort-btn" data-sort="discount">
+                            <i class="fas fa-percentage"></i> Descuento
+                        </button>
+                        <button class="sort-btn" data-sort="price">
+                            <i class="fas fa-dollar-sign"></i> Precio
+                        </button>
+                    </div>
                 </div>
-                <button class="theme-toggle" title="Cambiar tema">
-                    <i class="fas fa-moon" id="theme-icon"></i>
-                </button>
                 <div class="stats-compact">
                     <span><i class="fas fa-fire"></i> {{ total_productos }} productos</span>
                 </div>
@@ -54,6 +54,19 @@
     </nav>
     
     <div class="main-wrapper" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+        <!-- Panel lateral izquierdo -->
+        <aside class="categories-sidebar" style="flex: 1 1 20%; max-width: 300px;">
+            <div class="categories-panel">
+                <div class="categories-grid filters">
+                    {% for categoria_key, categoria_data in datos.items() %}
+                        <button class="filter-btn{% if categoria_key == 'descuentos_cmr' %} active{% endif %}" data-category="{{ categoria_key }}">
+                            <i class="{{ categoria_data.info.icono }}"></i> {{ categoria_data.info.nombre }}
+                        </button>
+                    {% endfor %}
+                </div>
+            </div>
+        </aside>
+
         <!-- Contenido principal -->
         <main class="main-content" style="flex: 1 1 75%;">
             <div class="container">
@@ -70,9 +83,11 @@
                         {% for producto in categoria_data.productos %}
                         <div class="product-card">
                             <div class="discount-badge">-{{ producto.descuento_porcentaje }}%</div>
-                            <img src="{{ producto.imagen or 'https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen' }}" 
+                            <img data-src="{{ producto.imagen or 'https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen' }}" 
+                                 src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 280 280'%3E%3Crect width='280' height='280' fill='%23f3f4f6'/%3E%3C/svg%3E"
                                  alt="{{ producto.nombre }}" 
-                                 class="product-image"
+                                 class="product-image lazy"
+                                 loading="lazy"
                                  onerror="this.src='https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen'">
                             <div class="product-info">
                                 <div class="product-brand">{{ producto.marca }}</div>
@@ -98,19 +113,6 @@
                 {% endfor %}
             </div>
         </main>
-
-        <!-- Panel lateral derecho -->
-        <aside class="categories-sidebar" style="flex: 1 1 20%; max-width: 300px;">
-            <div class="categories-panel">
-                <div class="categories-grid filters">
-                    {% for categoria_key, categoria_data in datos.items() %}
-                        <button class="filter-btn{% if categoria_key == 'descuentos_cmr' %} active{% endif %}" data-category="{{ categoria_key }}">
-                            <i class="{{ categoria_data.info.icono }}"></i> {{ categoria_data.info.nombre }}
-                        </button>
-                    {% endfor %}
-                </div>
-            </div>
-        </aside>
     </div>
     
     <!-- Scroll to top button -->

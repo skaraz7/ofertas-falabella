@@ -143,6 +143,11 @@ class OfertasApp {
             card.classList.remove('visible');
             setTimeout(() => {
                 card.classList.add('visible');
+                // Re-observe lazy images in newly visible cards
+                if (window.lazyLoader) {
+                    const lazyImages = card.querySelectorAll('img.lazy:not(.loaded)');
+                    lazyImages.forEach(img => window.lazyLoader.imageObserver?.observe(img));
+                }
             }, index * 50);
         });
     }
@@ -284,9 +289,51 @@ class OfertasApp {
     }
 }
 
+// Lazy loading implementation
+class LazyLoader {
+    constructor() {
+        this.imageObserver = null;
+        this.init();
+    }
+
+    init() {
+        if ('IntersectionObserver' in window) {
+            this.imageObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const img = entry.target;
+                        img.src = img.dataset.src;
+                        img.classList.add('loaded');
+                        this.imageObserver.unobserve(img);
+                    }
+                });
+            }, { rootMargin: '50px' });
+            
+            this.observeImages();
+        } else {
+            // Fallback for older browsers
+            this.loadAllImages();
+        }
+    }
+
+    observeImages() {
+        document.querySelectorAll('img.lazy').forEach(img => {
+            this.imageObserver.observe(img);
+        });
+    }
+
+    loadAllImages() {
+        document.querySelectorAll('img.lazy').forEach(img => {
+            img.src = img.dataset.src;
+            img.classList.add('loaded');
+        });
+    }
+}
+
 // Initialize app when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     window.ofertasApp = new OfertasApp();
+    window.lazyLoader = new LazyLoader();
     
     // Handle image errors globally
     document.addEventListener('error', (e) => {
