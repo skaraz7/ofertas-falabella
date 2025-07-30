@@ -179,7 +179,7 @@ body {
 
 .controls-grid {
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: auto 1fr auto;
     gap: var(--space-lg);
     align-items: center;
 }
@@ -188,6 +188,11 @@ body {
     display: flex;
     align-items: center;
     gap: var(--space-lg);
+    justify-self: end;
+}
+
+.filters {
+    justify-self: start;
 }
 
 .sort-controls {
@@ -750,31 +755,49 @@ body {
     .controls-grid {
         grid-template-columns: 1fr;
         gap: var(--space-md);
-        text-align: center;
+        text-align: left;
     }
 
     .controls-right {
         flex-direction: column;
         gap: var(--space-md);
-    }
-
-    .sort-controls {
-        justify-content: center;
-    }
-
-    .sort-btn {
-        padding: var(--space-xs) var(--space-sm);
-        font-size: 0.75rem;
+        align-items: flex-start;
     }
 
     .filters {
-        justify-content: center;
-        gap: var(--space-xs);
+        justify-content: flex-start;
+        width: 100%;
+    }
+
+    .theme-toggle {
+        position: fixed;
+        top: var(--space-md);
+        right: var(--space-md);
+        z-index: 1001;
+        width: 40px;
+        height: 40px;
+    }
+
+    .sort-controls {
+        justify-content: flex-start;
+        width: 100%;
+    }
+
+    .sort-btn {
+        padding: var(--space-sm) var(--space-md);
+        font-size: 0.875rem;
+    }
+
+    .filters {
+        justify-content: flex-start;
+        gap: var(--space-sm);
+        width: 100%;
     }
 
     .filter-btn {
-        padding: var(--space-xs) var(--space-sm);
-        font-size: 0.75rem;
+        padding: var(--space-sm) var(--space-md);
+        font-size: 0.875rem;
+        min-height: 44px;
     }
 
     .products-grid {
@@ -859,6 +882,13 @@ body {
         font-size: 0.85rem;
     }
 
+    .theme-toggle {
+        width: 36px;
+        height: 36px;
+        top: var(--space-sm);
+        right: var(--space-sm);
+    }
+
     .products-grid {
         grid-template-columns: repeat(3, 1fr);
         gap: var(--space-xs);
@@ -905,16 +935,25 @@ body {
     }
 
     .filters {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        display: flex;
+        flex-wrap: wrap;
         gap: var(--space-xs);
+        justify-content: flex-start;
     }
 
     .sort-controls {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        display: flex;
         gap: var(--space-xs);
         width: 100%;
+        justify-content: flex-start;
+    }
+
+    .filter-btn {
+        flex: 0 1 auto;
+    }
+
+    .sort-btn {
+        flex: 0 1 auto;
     }
 
     .sort-btn {

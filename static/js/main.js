@@ -1,6 +1,6 @@
 class OfertasApp {
     constructor() {
-        this.currentFilter = 'all';
+        this.currentFilter = 'moda-mujer';
         this.itemsPerPage = 30;
         this.currentPage = 1;
         this.currentSort = 'none';
@@ -10,7 +10,19 @@ class OfertasApp {
     init() {
         this.loadTheme();
         this.setupEventListeners();
+        this.setInitialFilter();
         this.updateDisplay();
+    }
+
+    setInitialFilter() {
+        // Set moda-mujer as active by default
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        const modaMujerBtn = document.querySelector('[data-category="moda-mujer"]');
+        if (modaMujerBtn) {
+            modaMujerBtn.classList.add('active');
+        }
     }
 
     loadTheme() {
