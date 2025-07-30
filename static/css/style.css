@@ -179,9 +179,72 @@ body {
 
 .controls-grid {
     display: grid;
-    grid-template-columns: 1fr auto auto;
+    grid-template-columns: 1fr auto;
     gap: var(--space-lg);
     align-items: center;
+}
+
+.controls-right {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+}
+
+.sort-controls {
+    display: flex;
+    gap: var(--space-xs);
+}
+
+.sort-btn {
+    background: var(--bg-card);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    padding: var(--space-sm) var(--space-md);
+    border-radius: var(--radius-lg);
+    font-weight: 600;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all var(--transition-normal);
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    box-shadow: var(--shadow-sm);
+    position: relative;
+    overflow: hidden;
+}
+
+.sort-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: var(--gradient-secondary);
+    transition: left var(--transition-normal);
+    z-index: -1;
+}
+
+.sort-btn:hover::before {
+    left: 0;
+}
+
+.sort-btn:hover {
+    color: white;
+    border-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.sort-btn.active {
+    background: var(--gradient-secondary);
+    color: white;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 20px rgba(245, 158, 11, 0.3);
+}
+
+.sort-btn.active::before {
+    display: none;
 }
 
 /* Filters */
@@ -681,6 +744,20 @@ body {
         text-align: center;
     }
 
+    .controls-right {
+        flex-direction: column;
+        gap: var(--space-md);
+    }
+
+    .sort-controls {
+        justify-content: center;
+    }
+
+    .sort-btn {
+        padding: var(--space-xs) var(--space-sm);
+        font-size: 0.75rem;
+    }
+
     .filters {
         justify-content: center;
         gap: var(--space-xs);
@@ -742,6 +819,18 @@ body {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: var(--space-xs);
+    }
+
+    .sort-controls {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--space-xs);
+        width: 100%;
+    }
+
+    .sort-btn {
+        justify-content: center;
+        min-width: 0;
     }
 
     /* Mobile pagination styles */

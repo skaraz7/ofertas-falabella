@@ -42,14 +42,27 @@
                         </button>
                     {% endfor %}
                 </div>
-                <button class="theme-toggle" title="Cambiar tema">
-                    <i class="fas fa-moon" id="theme-icon"></i>
-                </button>
-                <div class="stats">
-                    <h3>
-                        <i class="fas fa-fire" style="color: var(--error-color);"></i>
-                        <span>{{ total_productos }} Productos Disponibles</span>
-                    </h3>
+                <div class="controls-right">
+                    <div class="sort-controls">
+                        <button class="sort-btn active" data-sort="none">
+                            <i class="fas fa-list"></i> Original
+                        </button>
+                        <button class="sort-btn" data-sort="discount">
+                            <i class="fas fa-percentage"></i> Descuento
+                        </button>
+                        <button class="sort-btn" data-sort="price">
+                            <i class="fas fa-dollar-sign"></i> Precio
+                        </button>
+                    </div>
+                    <button class="theme-toggle" title="Cambiar tema">
+                        <i class="fas fa-moon" id="theme-icon"></i>
+                    </button>
+                    <div class="stats">
+                        <h3>
+                            <i class="fas fa-fire" style="color: var(--error-color);"></i>
+                            <span>{{ total_productos }} Productos Disponibles</span>
+                        </h3>
+                    </div>
                 </div>
             </div>
         </div>

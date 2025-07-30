@@ -3,6 +3,7 @@ class OfertasApp {
         this.currentFilter = 'all';
         this.itemsPerPage = 30;
         this.currentPage = 1;
+        this.currentSort = 'none';
         this.init();
     }
 
@@ -32,6 +33,14 @@ class OfertasApp {
             btn.addEventListener('click', (e) => {
                 const category = e.currentTarget.getAttribute('data-category');
                 this.filterByCategory(category);
+            });
+        });
+
+        // Sort buttons
+        document.querySelectorAll('.sort-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const sortType = e.currentTarget.getAttribute('data-sort');
+                this.sortProducts(sortType);
             });
         });
 
@@ -74,6 +83,45 @@ class OfertasApp {
         document.querySelector(`[data-category="${category}"]`).classList.add('active');
 
         this.updateDisplay();
+    }
+
+    sortProducts(sortType) {
+        this.currentSort = sortType;
+        this.currentPage = 1;
+        
+        // Update active sort button
+        document.querySelectorAll('.sort-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        document.querySelector(`[data-sort="${sortType}"]`).classList.add('active');
+
+        this.applySorting();
+        this.updateDisplay();
+    }
+
+    applySorting() {
+        if (this.currentSort === 'none') return;
+
+        const sections = document.querySelectorAll('.category-section');
+        sections.forEach(section => {
+            const grid = section.querySelector('.products-grid');
+            const cards = Array.from(grid.querySelectorAll('.product-card'));
+            
+            cards.sort((a, b) => {
+                if (this.currentSort === 'discount') {
+                    const discountA = parseInt(a.querySelector('.discount-badge').textContent.replace(/[-%]/g, ''));
+                    const discountB = parseInt(b.querySelector('.discount-badge').textContent.replace(/[-%]/g, ''));
+                    return discountB - discountA;
+                } else if (this.currentSort === 'price') {
+                    const priceA = parseFloat(a.querySelector('.price-current').textContent.replace(/[S/.\s,]/g, ''));
+                    const priceB = parseFloat(b.querySelector('.price-current').textContent.replace(/[S/.\s,]/g, ''));
+                    return priceA - priceB;
+                }
+                return 0;
+            });
+            
+            cards.forEach(card => grid.appendChild(card));
+        });
     }
 
     animateCards() {
