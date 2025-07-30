@@ -10,7 +10,7 @@ class OfertasApp {
     init() {
         this.loadTheme();
         this.setupEventListeners();
-        this.animateCards();
+        this.updateDisplay();
     }
 
     loadTheme() {

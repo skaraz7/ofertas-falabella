@@ -735,7 +735,16 @@ body {
     }
 
     .header {
-        padding: var(--space-xl) 0;
+        padding: var(--space-lg) 0;
+    }
+
+    .header h1 {
+        font-size: 2rem;
+        margin-bottom: var(--space-sm);
+    }
+
+    .header p {
+        font-size: 0.9rem;
     }
 
     .controls-grid {
@@ -769,17 +778,50 @@ body {
     }
 
     .products-grid {
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: var(--space-md);
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--space-sm);
+    }
+
+    .product-image {
+        height: 120px;
+        padding: var(--space-sm);
     }
 
     .category-section {
-        padding: var(--space-lg);
-        margin-bottom: var(--space-xl);
+        padding: var(--space-md);
+        margin-bottom: var(--space-lg);
     }
 
     .product-info {
-        padding: var(--space-lg);
+        padding: var(--space-sm);
+    }
+
+    .product-name {
+        font-size: 0.875rem;
+        line-height: 1.3;
+        margin-bottom: var(--space-sm);
+    }
+
+    .price-current {
+        font-size: 1.25rem;
+    }
+
+    .price-original {
+        font-size: 0.75rem;
+    }
+
+    .product-link {
+        padding: var(--space-sm);
+        font-size: 0.75rem;
+    }
+
+    .discount-badge {
+        font-size: 0.75rem;
+        padding: var(--space-xs) var(--space-sm);
+    }
+
+    .stats {
+        display: none;
     }
 
     #scroll-top {
@@ -805,8 +847,55 @@ body {
 }
 
 @media (max-width: 480px) {
+    .header {
+        padding: var(--space-md) 0;
+    }
+
+    .header h1 {
+        font-size: 1.75rem;
+    }
+
+    .header p {
+        font-size: 0.85rem;
+    }
+
     .products-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--space-xs);
+    }
+
+    .product-image {
+        height: 100px;
+        padding: var(--space-xs);
+    }
+
+    .product-info {
+        padding: var(--space-xs);
+    }
+
+    .product-name {
+        font-size: 0.75rem;
+        -webkit-line-clamp: 3;
+    }
+
+    .price-current {
+        font-size: 1rem;
+    }
+
+    .price-original {
+        font-size: 0.7rem;
+    }
+
+    .product-link {
+        padding: var(--space-xs);
+        font-size: 0.7rem;
+    }
+
+    .discount-badge {
+        font-size: 0.7rem;
+        padding: 2px var(--space-xs);
+        top: var(--space-xs);
+        right: var(--space-xs);
     }
 
     .filter-btn {
