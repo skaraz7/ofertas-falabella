@@ -40,7 +40,7 @@ class OfertasApp {
             themeToggle.addEventListener('click', () => this.toggleTheme());
         }
 
-        // Filter buttons
+        // Filter buttons (both in categories panel and controls)
         document.querySelectorAll('.filter-btn').forEach(btn => {
             btn.addEventListener('click', (e) => {
                 const category = e.currentTarget.getAttribute('data-category');
