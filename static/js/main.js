@@ -167,11 +167,15 @@ class OfertasApp {
 
         // Show/hide sections based on filter
         document.querySelectorAll('.category-section').forEach(section => {
+            const sectionCategory = section.getAttribute('data-category');
+            const categoryHeader = section.querySelector('.category-header');
+            
             if (this.currentFilter === 'all') {
-                section.classList.remove('hidden');
+                section.classList.add('hidden');
+                if (categoryHeader) categoryHeader.classList.add('hidden');
             } else {
-                const sectionCategory = section.getAttribute('data-category');
                 section.classList.toggle('hidden', sectionCategory !== this.currentFilter);
+                if (categoryHeader) categoryHeader.classList.toggle('hidden', sectionCategory !== this.currentFilter);
             }
         });
 

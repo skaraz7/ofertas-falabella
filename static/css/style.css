@@ -613,7 +613,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: var(--space-sm);
-    margin: var(--space-2xl) 0;
+    margin: 0 0 var(--space-2xl) 0;
     padding: var(--space-lg);
     background: var(--gradient-card);
     border-radius: var(--radius-xl);

@@ -71,6 +71,9 @@
     <!-- Main Content -->
     <main class="main-content">
         <div class="container">
+            <!-- Pagination -->
+            <div class="pagination hidden"></div>
+            
             {% for categoria_key, categoria_data in datos.items() %}
             <div class="category-section" data-category="{{ categoria_key }}">
                 <div class="category-header">
@@ -107,9 +110,6 @@
                 </div>
             </div>
             {% endfor %}
-            
-            <!-- Pagination -->
-            <div class="pagination hidden"></div>
         </div>
     </main>
     
