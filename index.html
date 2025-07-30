@@ -28,48 +28,62 @@
         </div>
     </header>
     
+    <!-- Categories Panel -->
+    <nav class="categories-panel">
+        <div class="container">
+            <div class="categories-grid">
+                <button class="filter-btn active" data-category="all">
+                    <i class="fas fa-th"></i> Todos los Productos
+                </button>
+                
+                    <button class="filter-btn" data-category="descuentos_cmr">
+                        <i class="fas fa-fire"></i> 🔥 Descuentos CMR
+                    </button>
+                
+                    <button class="filter-btn" data-category="moda_accesorios">
+                        <i class="fas fa-tshirt"></i> 👗 Moda y Accesorios
+                    </button>
+                
+                    <button class="filter-btn" data-category="moda_mujer">
+                        <i class="fas fa-female"></i> 👠 Moda Mujer
+                    </button>
+                
+                    <button class="filter-btn" data-category="zapatos_mujer">
+                        <i class="fas fa-shoe-prints"></i> 👡 Zapatos Mujer
+                    </button>
+                
+                    <button class="filter-btn" data-category="joyas_mujer">
+                        <i class="fas fa-gem"></i> 💎 Joyas Mujer
+                    </button>
+                
+                    <button class="filter-btn" data-category="maquillaje">
+                        <i class="fas fa-palette"></i> 💄 Maquillaje
+                    </button>
+                
+            </div>
+        </div>
+    </nav>
+    
     <!-- Controls -->
     <nav class="controls">
         <div class="container">
             <div class="controls-grid">
-                <div class="filters">
-                    <button class="filter-btn active" data-category="all">
-                        <i class="fas fa-th"></i> Todos los Productos
+                <div class="sort-controls">
+                    <button class="sort-btn active" data-sort="none">
+                        <i class="fas fa-list"></i> Original
                     </button>
-                    
-                        <button class="filter-btn" data-category="descuentos_cmr">
-                            <i class="fas fa-fire"></i> 🔥 Descuentos CMR
-                        </button>
-                    
-                        <button class="filter-btn" data-category="moda_accesorios">
-                            <i class="fas fa-tshirt"></i> 👗 Moda y Accesorios
-                        </button>
-                    
-                        <button class="filter-btn" data-category="moda_mujer">
-                            <i class="fas fa-female"></i> 👠 Moda Mujer
-                        </button>
-                    
-                        <button class="filter-btn" data-category="zapatos_mujer">
-                            <i class="fas fa-shoe-prints"></i> 👡 Zapatos Mujer
-                        </button>
-                    
-                        <button class="filter-btn" data-category="joyas_mujer">
-                            <i class="fas fa-gem"></i> 💎 Joyas Mujer
-                        </button>
-                    
-                        <button class="filter-btn" data-category="maquillaje">
-                            <i class="fas fa-palette"></i> 💄 Maquillaje
-                        </button>
-                    
+                    <button class="sort-btn" data-sort="discount">
+                        <i class="fas fa-percentage"></i> Descuento
+                    </button>
+                    <button class="sort-btn" data-sort="price">
+                        <i class="fas fa-dollar-sign"></i> Precio
+                    </button>
                 </div>
                 <button class="theme-toggle" title="Cambiar tema">
                     <i class="fas fa-moon" id="theme-icon"></i>
                 </button>
-                <div class="stats">
-                    <h3>
-                        <i class="fas fa-fire" style="color: var(--error-color);"></i>
-                        <span>710 Productos Disponibles</span>
-                    </h3>
+                <div class="stats-compact">
+                    <span><i class="fas fa-fire"></i> 710 productos</span>
                 </div>
             </div>
         </div>
@@ -78,6 +92,9 @@
     <!-- Main Content -->
     <main class="main-content">
         <div class="container">
+            <!-- Pagination -->
+            <div class="pagination hidden"></div>
+            
             
             <div class="category-section" data-category="descuentos_cmr">
                 <div class="category-header">
