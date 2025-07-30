@@ -112,6 +112,8 @@ body {
     transition: background-color var(--transition-normal), color var(--transition-normal);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
 }
 
 /* Container */
@@ -734,18 +736,25 @@ body {
     }
 }
 
-/* Categories Panel */
-.categories-panel {
+.categories-sidebar {
     background: var(--bg-secondary);
-    border-bottom: 1px solid var(--border-color);
-    padding: var(--space-md) 0;
+    padding: var(--space-lg);
+    border-left: 1px solid var(--border-color);
+    border-radius: var(--radius-xl);
+    height: fit-content;
+    position: sticky;
+    top: var(--space-xl);
 }
 
-.categories-grid {
+.categories-sidebar .filter-btn {
+    display: block;
+    width: 100%;
+}
+
+.categories-grid.filters {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: var(--space-sm);
-    justify-content: center;
 }
 
 .stats-compact {
@@ -774,16 +783,26 @@ body {
         font-size: 0.8rem;
     }
 
-    .categories-grid {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: var(--space-sm);
+    .main-wrapper {
+        flex-direction: column;
     }
 
-    .categories-panel .filter-btn {
-        padding: var(--space-md);
-        font-size: 0.9rem;
-        min-height: 50px;
+    .categories-sidebar {
+        order: -1;
+        width: 100%;
+        border-left: none;
+        border-bottom: 1px solid var(--border-color);
+        padding: var(--space-md) 0;
+    }
+
+    .categories-grid.filters {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .categories-sidebar .filter-btn {
+        width: auto;
     }
 
     .controls-grid {
@@ -904,6 +923,12 @@ body {
 }
 
 @media (max-width: 480px) {
+    .filter-btn,
+    .sort-btn {
+        font-size: 0.75rem;
+        padding: var(--space-xs) var(--space-sm);
+    }
+
     .header {
         padding: var(--space-md) 0;
     }
@@ -939,7 +964,8 @@ body {
 
     .product-name {
         font-size: 0.75rem;
-        -webkit-line-clamp: 3;
+        -webkit-line-clamp: 2;
+        line-height: 1.4;
     }
 
     .price-current {
@@ -947,7 +973,7 @@ body {
     }
 
     .price-original {
-        font-size: 0.7rem;
+        font-size: 0.75rem;
     }
 
     .product-link {

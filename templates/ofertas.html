@@ -28,22 +28,6 @@
         </div>
     </header>
     
-    <!-- Categories Panel -->
-    <nav class="categories-panel">
-        <div class="container">
-            <div class="categories-grid">
-                <button class="filter-btn active" data-category="all">
-                    <i class="fas fa-th"></i> Todos los Productos
-                </button>
-                {% for categoria_key, categoria_data in datos.items() %}
-                    <button class="filter-btn" data-category="{{ categoria_key }}">
-                        <i class="{{ categoria_data.info.icono }}"></i> {{ categoria_data.info.nombre }}
-                    </button>
-                {% endfor %}
-            </div>
-        </div>
-    </nav>
-    
     <!-- Controls -->
     <nav class="controls">
         <div class="container">
@@ -69,50 +53,65 @@
         </div>
     </nav>
     
-    <!-- Main Content -->
-    <main class="main-content">
-        <div class="container">
-            <!-- Pagination -->
-            <div class="pagination hidden"></div>
-            
-            {% for categoria_key, categoria_data in datos.items() %}
-            <div class="category-section" data-category="{{ categoria_key }}">
-                <div class="category-header">
-                    <i class="{{ categoria_data.info.icono }}"></i>
-                    <h2>{{ categoria_data.info.nombre }}</h2>
-                </div>
-                <div class="products-grid">
-                    {% for producto in categoria_data.productos %}
-                    <div class="product-card">
-                        <div class="discount-badge">-{{ producto.descuento_porcentaje }}%</div>
-                        <img src="{{ producto.imagen or 'https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen' }}" 
-                             alt="{{ producto.nombre }}" 
-                             class="product-image"
-                             onerror="this.src='https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen'">
-                        <div class="product-info">
-                            <div class="product-brand">{{ producto.marca }}</div>
-                            <div class="product-name">{{ producto.nombre }}</div>
-                            <div class="product-prices">
-                                <span class="price-current">{{ producto.precio_oferta }}</span>
-                                <span class="price-original">{{ producto.precio_original }}</span>
-                            </div>
-                            {% if producto.link %}
-                            <a href="{{ producto.link }}" target="_blank" class="product-link">
-                                <i class="fas fa-shopping-cart"></i> Ver Oferta
-                            </a>
-                            {% else %}
-                            <span class="product-link" style="background: #ccc; cursor: not-allowed;">
-                                <i class="fas fa-times"></i> Sin enlace
-                            </span>
-                            {% endif %}
-                        </div>
+    <div class="main-wrapper" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+        <!-- Contenido principal -->
+        <main class="main-content" style="flex: 1 1 75%;">
+            <div class="container">
+                <!-- Pagination -->
+                <div class="pagination hidden"></div>
+                
+                {% for categoria_key, categoria_data in datos.items() %}
+                <div class="category-section" data-category="{{ categoria_key }}">
+                    <div class="category-header">
+                        <i class="{{ categoria_data.info.icono }}"></i>
+                        <h2>{{ categoria_data.info.nombre }}</h2>
                     </div>
+                    <div class="products-grid">
+                        {% for producto in categoria_data.productos %}
+                        <div class="product-card">
+                            <div class="discount-badge">-{{ producto.descuento_porcentaje }}%</div>
+                            <img src="{{ producto.imagen or 'https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen' }}" 
+                                 alt="{{ producto.nombre }}" 
+                                 class="product-image"
+                                 onerror="this.src='https://via.placeholder.com/280x280/6366f1/ffffff?text=Sin+Imagen'">
+                            <div class="product-info">
+                                <div class="product-brand">{{ producto.marca }}</div>
+                                <div class="product-name">{{ producto.nombre }}</div>
+                                <div class="product-prices">
+                                    <span class="price-current">{{ producto.precio_oferta }}</span>
+                                    <span class="price-original">{{ producto.precio_original }}</span>
+                                </div>
+                                {% if producto.link %}
+                                <a href="{{ producto.link }}" target="_blank" class="product-link">
+                                    <i class="fas fa-shopping-cart"></i> Ver Oferta
+                                </a>
+                                {% else %}
+                                <span class="product-link" style="background: #ccc; cursor: not-allowed;">
+                                    <i class="fas fa-times"></i> Sin enlace
+                                </span>
+                                {% endif %}
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </main>
+
+        <!-- Panel lateral derecho -->
+        <aside class="categories-sidebar" style="flex: 1 1 20%; max-width: 300px;">
+            <div class="categories-panel">
+                <div class="categories-grid filters">
+                    {% for categoria_key, categoria_data in datos.items() %}
+                        <button class="filter-btn{% if categoria_key == 'descuentos_cmr' %} active{% endif %}" data-category="{{ categoria_key }}">
+                            <i class="{{ categoria_data.info.icono }}"></i> {{ categoria_data.info.nombre }}
+                        </button>
                     {% endfor %}
                 </div>
             </div>
-            {% endfor %}
-        </div>
-    </main>
+        </aside>
+    </div>
     
     <!-- Scroll to top button -->
     <button id="scroll-top" onclick="window.ofertasApp.scrollToTop()" style="

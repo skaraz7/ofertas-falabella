@@ -1,6 +1,6 @@
 class OfertasApp {
     constructor() {
-        this.currentFilter = 'moda-mujer';
+        this.currentFilter = 'descuentos_cmr';
         this.itemsPerPage = 30;
         this.currentPage = 1;
         this.currentSort = 'none';
@@ -15,13 +15,13 @@ class OfertasApp {
     }
 
     setInitialFilter() {
-        // Set moda-mujer as active by default
+        // Set descuentos_cmr as active by default
         document.querySelectorAll('.filter-btn').forEach(btn => {
             btn.classList.remove('active');
         });
-        const modaMujerBtn = document.querySelector('[data-category="moda-mujer"]');
-        if (modaMujerBtn) {
-            modaMujerBtn.classList.add('active');
+        const descuentosCmrBtn = document.querySelector('[data-category="descuentos_cmr"]');
+        if (descuentosCmrBtn) {
+            descuentosCmrBtn.classList.add('active');
         }
     }
 
@@ -163,11 +163,7 @@ class OfertasApp {
 
     // Pagination methods
     getAllVisibleCards() {
-        if (this.currentFilter === 'all') {
-            return document.querySelectorAll('.product-card');
-        } else {
-            return document.querySelectorAll(`.category-section[data-category="${this.currentFilter}"] .product-card`);
-        }
+        return document.querySelectorAll(`.category-section[data-category="${this.currentFilter}"] .product-card`);
     }
 
     updateDisplay() {
@@ -182,13 +178,8 @@ class OfertasApp {
             const sectionCategory = section.getAttribute('data-category');
             const categoryHeader = section.querySelector('.category-header');
             
-            if (this.currentFilter === 'all') {
-                section.classList.add('hidden');
-                if (categoryHeader) categoryHeader.classList.add('hidden');
-            } else {
-                section.classList.toggle('hidden', sectionCategory !== this.currentFilter);
-                if (categoryHeader) categoryHeader.classList.toggle('hidden', sectionCategory !== this.currentFilter);
-            }
+            section.classList.toggle('hidden', sectionCategory !== this.currentFilter);
+            if (categoryHeader) categoryHeader.classList.toggle('hidden', sectionCategory !== this.currentFilter);
         });
 
         // Show/hide cards based on pagination
